@@ -2531,7 +2531,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.toml"
-hash = "781bc4c8b6c2918ff2cd461865aec7b343f545c6303ff00cbd8d7c4a1dda7317"
+hash = "407cfbba71610e7ad047cda410583eec88354a58eb400750b85cd5b26c960593"
 metafile = true
 
 [[files]]
@@ -2717,6 +2717,11 @@ metafile = true
 [[files]]
 file = "mods/moreplates.toml"
 hash = "29d471c162e4d8239f99d77bbd550c83e19ce4db1126fc0e2812afc6539d7d99"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod-legacy.pw.toml"
+hash = "f34ca6b7bb00b4d4c4e5db0efe178356058d0e9aa720fe7791cd6bb86dfb2c9e"
 metafile = true
 
 [[files]]

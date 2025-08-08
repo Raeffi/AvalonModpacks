@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/CoroUtil/General.toml"
+hash = "da41baa38cd86e7388841af4095cb06b9f6f3a1c883cedfe6f0632ea129f4f06"
+
+[[files]]
 file = "config/Mekanism/client.toml"
 hash = "096303223e1f1cb384f3fca3d0a825857aab63608013d4300d21486e2ea8e53a"
 
@@ -33,6 +37,42 @@ file = "config/ProjectRed.cfg"
 hash = "8605c2990ba5181e5473ed70296ab79d2843accfa84bc74bb088bc4e2dfb026f"
 
 [[files]]
+file = "config/Weather2/Debug.toml"
+hash = "6fc9671cbe29b2cfe41347da33cd4a2b59377be3ba9b05660efe399ca496f918"
+
+[[files]]
+file = "config/Weather2/Misc.toml"
+hash = "48897af6c221b4074566aaf7ed418202ef794d615a6e67c2a5352cdc1074c234"
+
+[[files]]
+file = "config/Weather2/Particle.toml"
+hash = "f8836c5d2a53e39a50382847a9c71476b885a82e82de99d183aaaed20d19eb71"
+
+[[files]]
+file = "config/Weather2/Sand.toml"
+hash = "955c746dbc7e3181b960e4cf62834d331d3bb076b706f55e98178ab213cb6c58"
+
+[[files]]
+file = "config/Weather2/Snow.toml"
+hash = "41d666b8010774b08a4cef15ed5a4a39bc14273c4718ce184c05ba9d0e2a3169"
+
+[[files]]
+file = "config/Weather2/Sound.toml"
+hash = "800dfc72487d78fb8dffb321abe84f1f5e2f95544b7034218f19287a9f997f80"
+
+[[files]]
+file = "config/Weather2/Storm.toml"
+hash = "4077f99212c5173f47c1320622b226431af47dbf8fed2c177a07ce12b71ec7ed"
+
+[[files]]
+file = "config/Weather2/Tornado.toml"
+hash = "3584dac5fe3ae1eee811a5043b55067ed0dcb5aa2f1e4010f8dcd4497634f4dc"
+
+[[files]]
+file = "config/Weather2/Wind.toml"
+hash = "d6c493146b8e461ddfebfc60c91241a85bab6565117c7f609e33671c8b04a911"
+
+[[files]]
 file = "config/ad_astra-client.jsonc"
 hash = "eff1be886673bc30e4dde7030f6970915c5c1c648d671f81bae5c941025705b3"
 
@@ -61,12 +101,100 @@ file = "config/appleskin-client.toml"
 hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
 
 [[files]]
+file = "config/appliances-common.toml"
+hash = "f1f064eb80171ae39abde8f59b7503808551b152563d93d78f66b53e76eec200"
+
+[[files]]
 file = "config/balm-client.toml"
 hash = "b00ded0ecc4c711aac1b72d3b1a13eb2f7b5da2b6025a82eec88e193bfce8fe5"
 
 [[files]]
 file = "config/balm-common.toml"
 hash = "b00ded0ecc4c711aac1b72d3b1a13eb2f7b5da2b6025a82eec88e193bfce8fe5"
+
+[[files]]
+file = "config/bluemap/core.conf"
+hash = "ba5185581c45d0e2a4c97c9b769128284d4cfe62dbc11e8a1483b08510fc71b2"
+
+[[files]]
+file = "config/bluemap/maps/new_world.conf"
+hash = "6314833d9a35d987c5f8c044a435d78519520da9407d99b94fc099554989b5ac"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_earth_orbit.conf"
+hash = "56fb045baf3213d9f3350e70e5142c95e21b9411163e1060bd3e39b7bc548b5a"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_glacio.conf"
+hash = "cfb6bcdc40ce1953a135bddf564a43aa1f0e321a3a2df1d89ae4c1b5e04dd055"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_glacio_orbit.conf"
+hash = "e1ad90a674940ad6bcb4e5d3f900934ce785966df145989930559734678043fa"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_mars.conf"
+hash = "7e6ef5241d69a62eadb11a1c40289725c1563f8b1d69d1b88fa3935fc4f504f4"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_mars_orbit.conf"
+hash = "26e631a8b063684c4bf2a4974bb396f27fa48a99f54dac652b953bf51feeab0e"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_mercury.conf"
+hash = "6fe109fdc4f7516e40d176d1a580360f9ce35ec8c9c30fac3833e37fdb79c675"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_mercury_orbit.conf"
+hash = "031b7e8bbcbf72a83b2f2ee96dafc1074a84c0e09798919d6808b912611ab91e"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_moon.conf"
+hash = "a3f5e83d4b37e31f73bde598d17bf2c6b0822c2f54253abb9e14a1b611023432"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_moon_orbit.conf"
+hash = "7059f3d07306c997d01f3f46d1f9875a7ae95442d054cde1f1908d6d566a86fa"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_venus.conf"
+hash = "e8cc61276a95cbb733447713ce5f3d32d3538832db301fe344799a210d1b4ab2"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ad_astra_venus_orbit.conf"
+hash = "1f0bb1648b20c00710e97d571b9f2ad08a0e437d3ae3f7ddab0f4259da4d15a8"
+
+[[files]]
+file = "config/bluemap/maps/new_world_ae2_spatial_storage.conf"
+hash = "727938a6f442e9eadc9c398d6c05e902dee86169cabd1f5e1d0b6772ea86fa94"
+
+[[files]]
+file = "config/bluemap/maps/new_world_the_end.conf"
+hash = "1af58cc243f213b0b2ec809497fbdd9e9613ea6710011ff454c22ad5be20cc6f"
+
+[[files]]
+file = "config/bluemap/maps/new_world_the_nether.conf"
+hash = "69850d0eb8170aae2adc449dc6c6acc651784fb2d4779968241a70b40b105912"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
 
 [[files]]
 file = "config/buildinggadgets2-common.toml"
@@ -501,6 +629,50 @@ file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "368cfc853e44c77ebd1f6f43484ae1264f393f0e927391cb04ae9c0916b6e90c"
 
 [[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+
+[[files]]
+file = "config/spark/tmp/spark-1fff62abe7a-libasyncProfiler.so.tmp"
+hash = "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f"
+
+[[files]]
+file = "config/spark/tmp/spark-23db6f878b6-profile-data.jfr.tmp"
+hash = "b67c6e13034da5fdbaba4ea7a1301c1de032bd04e4b8a09a9fa7097df1bd4a46"
+
+[[files]]
+file = "config/spark/tmp/spark-23f75cb9934-profile-data.jfr.tmp"
+hash = "2e80118a576b4d5545457102ba90a5bc939b4a3c7b12144525abbf1d48dadf3a"
+
+[[files]]
+file = "config/spark/tmp/spark-29783a34243-libasyncProfiler.so.tmp"
+hash = "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f"
+
+[[files]]
+file = "config/spark/tmp/spark-2a61379c5fd-profile-data.jfr.tmp"
+hash = "64aaaf2f1730a084c49ac8db6899fc4b340d36c561064c4b869d15e5f673ca83"
+
+[[files]]
+file = "config/spark/tmp/spark-373869730ff-libasyncProfiler.so.tmp"
+hash = "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f"
+
+[[files]]
+file = "config/spark/tmp/spark-92e9065362c-profile-data.jfr.tmp"
+hash = "598eb34daae2be27900b729a13a0398041b359b34400be2c778c547cefef4ddc"
+
+[[files]]
+file = "config/spark/tmp/spark-9e66c7cb2566-libasyncProfiler.so.tmp"
+hash = "1ca599cb9db2b40a508c665193fc73cd41143c8327d06900346206a05c52122f"
+
+[[files]]
+file = "config/spark/tmp/spark-9f7e667d0e4f-profile-data.jfr.tmp"
+hash = "6443c297c2c5d63b770b961d84ecfbd80f2989a3e2b8d9371bf2ee0cd4ad750a"
+
+[[files]]
 file = "config/storagedrawers-client.toml"
 hash = "9278e868cee8fe35e0c0bae950a26329d85580d91841b42ea1b0d04fb4d0ad2f"
 
@@ -543,6 +715,26 @@ hash = "1321925a170309d09cce31f4dd2cdc80125f5e3a8adb58d3234a6afc9f4536db"
 [[files]]
 file = "config/thermal-common.toml"
 hash = "6263d7793411226904cd47aa8881fe7dbf5a899cf0ac9159291ee05c30bffe2d"
+
+[[files]]
+file = "config/thirst/client.toml"
+hash = "ac3c442ed65141d5bf71497bd0562833ecffc16a6aae47f78aa2daa7b400d6f5"
+
+[[files]]
+file = "config/thirst/common.toml"
+hash = "8807a262feed0444aa9c0b9311825439691f43f9ff02d61077fbc92789dd466e"
+
+[[files]]
+file = "config/thirst/container.toml"
+hash = "8fec1bca92d628e7e57b7ccf3ee2088e286449ca60e78e4a12613805aaa73fe8"
+
+[[files]]
+file = "config/thirst/item_settings.toml"
+hash = "a463f95b65e7e1288181357cbb85acdea2dd15a0b5469f0ce499aca5a881dea5"
+
+[[files]]
+file = "config/thirst/keyword.toml"
+hash = "bbb6984d9fca0d0872be2f44962cf449208a0cdee9375f2cb8e0c98fa2ad3e4a"
 
 [[files]]
 file = "config/tis3d-client.toml"
@@ -693,12 +885,36 @@ file = "kubejs/config/common.properties"
 hash = "ed5794be01cf009e176b360215291b41a5afbb8c8b8cb6690e98e3588d088913"
 
 [[files]]
+file = "kubejs/data/badlands/structures/ruins/industry_ruin_1_lower.nbt"
+hash = "69b6298450bd973e9e1b6e44086d551b321e368a178e2213cebd89998a868ca1"
+
+[[files]]
+file = "kubejs/data/badlands/structures/ruins/industry_ruin_1_upper.nbt"
+hash = "a06ef21f10e3d512bc692d4fd380b2961586681c39d590ef85c4f70d56607fac"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/structure/industry_ruin_1.json"
+hash = "95f00ab793dd2790d04c9d6f51c616f7d0875713dfdf21ee540e89b588eda57b"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/structure_set/industry_ruin_1.json"
+hash = "6a6ad4c0a3db9bb11bea8510b28626fb93d39f9f9e14b2177fe95425babd6ec9"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/template_pool/industry_ruin_1_lower_pool.json"
+hash = "f21ae2b34da03960e69816f968a558a01339a91a744a412cc22cc88a0af4dceb"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/template_pool/industry_ruin_1_upper_pool.json"
+hash = "4e0a81ab453268bdc7c1f058f914869c20023a92b0390157b1f49862fbf11c28"
+
+[[files]]
 file = "kubejs/data/minecraft/dimension/overworld.json"
 hash = "07ded67f76db6c5e27027af3b9d06a55aef2319d3c110740e4c0651a3d88515b"
 
 [[files]]
-file = "kubejs/server_scripts/example.js"
-hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+file = "kubejs/server_scripts/fixup.js"
+hash = "cfc111f647a6777fe24ef626fe9b1b16bdb5d23d1f979c6096b8463ac6d82d26"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -890,6 +1106,11 @@ hash = "f554b6369874d106542fc7d98c2e12434a8bc50537a5f8ecf680c8b9f5eaa7eb"
 metafile = true
 
 [[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "06d41d478529da12b3d5c776d976ec00506abdf5eecaae599619685a89b95282"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "0cca109c76c8f9fa63328a0066758f9508bdecf1e4571562d3460ce95f0b710b"
 metafile = true
@@ -897,6 +1118,11 @@ metafile = true
 [[files]]
 file = "mods/create-clockwork.pw.toml"
 hash = "d31c742e6dacf85d60415a75dbbe70e68ce17839ceeec858235f599606ab4632"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "5c66d23d5bf6188ef05d27c7b6c608734e65ad74aa5dcd86b3e7781d7489f62c"
 metafile = true
 
 [[files]]
@@ -1005,6 +1231,11 @@ hash = "a247ce1e2f3334589632c90922ad74abd1b937952b7fb53aa929be3208258564"
 metafile = true
 
 [[files]]
+file = "mods/drive-by-wire.pw.toml"
+hash = "e42a43132302d112feedbb2b1a5f514493b07e78090f67ee83fbed3888c55719"
+metafile = true
+
+[[files]]
 file = "mods/dustrial-decor.pw.toml"
 hash = "f55c33bbcf1b7d49b0ab93345a4e311f36c30f7c3177cf5c70d91c973a95c029"
 metafile = true
@@ -1022,6 +1253,11 @@ metafile = true
 [[files]]
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "91572dfdd0b2452598582b95967372ce0c5fbb2f771d890d00ea125b2e4c93e9"
 metafile = true
 
 [[files]]
@@ -1047,6 +1283,11 @@ metafile = true
 [[files]]
 file = "mods/fastload.pw.toml"
 hash = "b4fc21a94115c0044b9c7bf79b5b5eddef5034361039a1cbc1af4afc47662f46"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
@@ -1087,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "f073be02aab983aa260322d20a23f189226f447f5c26241425dd1b26080e4b26"
 metafile = true
 
 [[files]]
@@ -1237,6 +1483,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
+file = "mods/oc2r.pw.toml"
+hash = "e91a401eda4f407f43fe71f3fca6ce69265ecf70f53bc1b0081deec263c1d605"
 metafile = true
 
 [[files]]
@@ -1410,6 +1661,11 @@ hash = "8781fb6bf8a0b948bf2f802c3df1425f84f5df9c5cda4d5c5891f4be715b2bcc"
 metafile = true
 
 [[files]]
+file = "mods/structurevoidable.pw.toml"
+hash = "2eeeb1991c8fc79a09b62f53d26c42897d0bb43b035b47790b0f1d846ad229c5"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "c35e5a06dcd2a6a2614200254f7ba1b9a016b9c9ad38ed2f3343766673f6b764"
 metafile = true
@@ -1546,10 +1802,15 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
 metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "7bf0ed2590804a6468a5a4fd8428ca0b94f88ef726f19968a4411f38031a84fa"
+preserve = true

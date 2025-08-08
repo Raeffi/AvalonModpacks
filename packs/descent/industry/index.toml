@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "tools/sync-gtnh.py"
+hash = "15605028e2f39d5b61bcc60c012af1d86c3996a28710e71c429062b03679dc3c"

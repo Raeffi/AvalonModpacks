@@ -1,0 +1,13 @@
+name = "Drive-By-Wire"
+filename = "drivebywire-1.20.1-0.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I9AkDJzr/versions/NaSIEvSy/drivebywire-1.20.1-0.0.8.jar"
+hash-format = "sha512"
+hash = "d3a8c930aaee28fbaae47e907daabe9557d251bc275b11f4c4e42f7316dc04975c781cebd8d93a8bb4ad61e27ce69e8b85f6f6664d949c55284fc0e0c58978cd"
+
+[update]
+[update.modrinth]
+mod-id = "I9AkDJzr"
+version = "NaSIEvSy"

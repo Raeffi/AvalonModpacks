@@ -1,0 +1,212 @@
+
+#Machines Settings
+[Machines]
+
+	#Freezer Settings
+	[Machines.Freezer]
+		#Use energy system for this machine
+		energyEnabled = true
+		#Is coolant required for this machine?
+		coolantEnabled = false
+
+		#Freezer Energy Settings
+		[Machines.Freezer.Energy]
+			#Energy consumed per tick
+			#Range: > 0
+			consumptionRate = 1
+			#Maximum energy storage capacity
+			#Range: > 0
+			maxCapacity = 100000
+			#Maximum energy transfer per tick
+			#Range: > 0
+			maxTransfer = 256
+
+		#Freezer Coolant Settings
+		[Machines.Freezer.Coolant]
+			#How many millibuckets (mB) of fluid is consumed per second
+			#Range: > 0
+			fluidConsumptionRate = 2
+			#Maximum amount of fluid in millibuckets (mB) that can be stored in this machine's tank
+			#Range: > 0
+			fluidMaxCapacity = 100000
+			#Maximum amount of fluid in millibuckets (mB) that can be transferred from a tank in input slot to machine's tank per tick
+			#Range: > 0
+			fluidMaxTransfer = 1000
+
+		#Freezer Inventory Settings
+		[Machines.Freezer.Inventory]
+			#How many inventory rows this machine has
+			#Range: 1 ~ 9
+			rowCount = 3
+			#Enable item blacklist tag (appliances:freezer_blacklist). Has priority over whitelist
+			blacklistEnabled = false
+			#Enable item whitelist tag (appliances:freezer_whitelist). If enabled, allows only listed items
+			whitelistEnabled = false
+			#Allow only edibles. Whitelist and blacklist have priority over this setting
+			ediblesOnly = false
+			#Allow only meat. 'ediblesOnly' has to be enabled.
+			meatOnly = false
+
+		#Freezer Sound Settings
+		[Machines.Freezer.Sounds]
+			#Enable open/close inventory sounds
+			openCloseEnabled = true
+			#Enable start/stop sounds
+			startStopEnabled = true
+			#Enable processing sound (when machine is active)
+			processingEnabled = true
+
+	#Cooler Settings
+	[Machines.Cooler]
+		#Use energy system for this machine
+		energyEnabled = false
+		#Is coolant required for this machine?
+		coolantEnabled = true
+
+		#Cooler Energy Settings
+		[Machines.Cooler.Energy]
+			#Energy consumed per tick
+			#Range: > 0
+			consumptionRate = 1
+			#Maximum energy storage capacity
+			#Range: > 0
+			maxCapacity = 50000
+			#Maximum energy transfer per tick
+			#Range: > 0
+			maxTransfer = 128
+
+		#Cooler Coolant Settings
+		[Machines.Cooler.Coolant]
+			#How many millibuckets (mB) of fluid is consumed per second
+			#Range: > 0
+			fluidConsumptionRate = 2
+			#Maximum amount of fluid in millibuckets (mB) that can be stored in this machine's tank
+			#Range: > 0
+			fluidMaxCapacity = 100000
+			#Maximum amount of fluid in millibuckets (mB) that can be transferred from a tank in input slot to machine's tank per tick
+			#Range: > 0
+			fluidMaxTransfer = 1000
+
+		#Cooler Inventory Settings
+		[Machines.Cooler.Inventory]
+			#How many inventory rows this machine has
+			#Range: 1 ~ 9
+			rowCount = 1
+			#Enable item blacklist tag (appliances:cooler_blacklist). Has priority over whitelist
+			blacklistEnabled = false
+			#Enable item whitelist tag (appliances:cooler_whitelist). If enabled, allows only listed items
+			whitelistEnabled = false
+			#Allow only edibles. Whitelist and blacklist have priority over this setting
+			ediblesOnly = false
+			#Allow only meat. 'ediblesOnly' has to be enabled.
+			meatOnly = false
+
+		#Cooler Sound Settings
+		[Machines.Cooler.Sounds]
+			#Enable open/close inventory sounds
+			openCloseEnabled = true
+			#Enable start/stop sounds
+			startStopEnabled = false
+			#Enable processing sound (when machine is active)
+			processingEnabled = false
+
+	#Water Condenser Settings
+	[Machines.WaterCondenser]
+		#What fluid this machine accepts
+		fluid = "minecraft:water"
+		#Enable auto output to adjacent blocks
+		autoOutputEnabled = true
+		#Enable responding to a redstone signal
+		redstoneControlEnabled = true
+		#Enable nearby farmland hydration
+		hydrateFarmlandEnabled = true
+		#Maximum amount of fluid in millibuckets (mB) that can be stored in this machine's tank. Set to -1 for infinite capacity
+		#Range: > -1
+		fluidMaxCapacity = 10000000
+		#Maximum amount of fluid in millibuckets (mB) that can be transferred by this machine per tick. Set to -1 for instant transfer
+		#Range: > -1
+		fluidMaxTransfer = 10000000
+		#Amount of fluid in millibuckets (mB) that is refilled every (tickRate) ticks. Set to -1 for instant maximum capacity refill. If set to 0, fluid will not be refilled!
+		#Range: > -1
+		fluidRefillAmount = -1
+		#How fast does this machine operate (tick amount between operations)
+		#Range: > 0
+		tickRate = 10
+		#if hydrateFarmlandEnabled: horizontal radius of hydration
+		#Range: 0 ~ 32
+		hydrationHorizontalRange = 9
+		#if hydrateFarmlandEnabled: vertical range of hydration
+		#Range: 0 ~ 32
+		hydrationVerticalRange = 1
+
+#Devices Settings
+[Devices]
+
+	#Landmine Settings
+	[Devices.Landmine]
+		#Amount of ticks before landmine becomes active (not triggered)
+		#Range: > 0
+		gracePeriod = 20
+		#Additional proximity radius in blocks
+		#Range: 0.0 ~ 32.0
+		additionalProximityRadius = 0.0
+		#Enable periodic warning sound
+		warningSoundEnabled = true
+		#Emit light while blinking and when triggered
+		emitLightEnabled = true
+		#Blinking interval duration in ticks
+		#Range: 0 ~ 200
+		blinkInterval = 20
+		#Amount of ticks before landmine explodes after being triggered
+		#Range: > 0
+		detonationDelay = 20
+		#Enable triggering landmine with redstone signal
+		redstoneTriggerEnabled = true
+		#Explosion radius. Vanilla TNT is 4.0
+		#Range: 0.0 ~ 32.0
+		explosionRadius = 4.0
+		#Destroy blocks on explosion. Respects tntExplosionDropDecay game rule
+		destroyBlocksEnabled = true
+		#Should landmine explode when it lands after falling?
+		explodeOnLandingEnabled = true
+		#Should explosion produce fire?
+		produceFireEnabled = false
+		#How many landmine explosions can happen in one tick
+		#Range: > 0
+		maxExplosionsPerTick = 50
+
+#Tools Settings
+[Tools]
+
+	#Bow Drill Settings
+	[Tools.BowDrill]
+		#Item durability. Set to 0 to disable durability for this item
+		#Range: > 0
+		durability = 32
+		#Minimum amount of charging time (in ticks) required for an ignition attempt after release
+		#Range: > 0
+		minChargeDuration = 15
+		#Amount of charging time (in ticks) required for an automatic ignition attempt
+		#Range: > 0
+		maxChargeDuration = 40
+		#Ignition success chance (0-1). 1 equals to 100% chance
+		#Range: 0.0 ~ 1.0
+		successChance = 0.5
+
+	#Wooden Shears Settings
+	[Tools.WoodenShears]
+		#Item durability. Set to 0 to disable durability for this item
+		#Range: > 0
+		durability = 32
+
+	#Flint Shears Settings
+	[Tools.FlintShears]
+		#Item durability. Set to 0 to disable durability for this item
+		#Range: > 0
+		durability = 96
+
+#Miscellaneous Settings
+[Miscellaneous]
+	#List of solid coolants. Format: 'modid:item_name,value'. Value: millibuckets (mB) of produced liquid coolant per item
+	solidCoolants = ["minecraft:snowball,100", "minecraft:snow_block,500", "minecraft:ice,1000", "minecraft:packed_ice,10000", "minecraft:blue_ice,100000"]
+

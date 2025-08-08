@@ -1,0 +1,13 @@
+name = "Create: Hypertubes"
+filename = "create_hypertube-0.2.2-CREATE-0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ATDdrG1y/versions/sNchm4bk/create_hypertube-0.2.2-CREATE-0.5.1.jar"
+hash-format = "sha512"
+hash = "a4bb40ec854bcd2e542e3de4e5dbaff5b2688546f355668178e18195f063f5dd86824a2cc20acd69559b0c9f5d824a86cdba807e4475817a24366ed744cd3fc1"
+
+[update]
+[update.modrinth]
+mod-id = "ATDdrG1y"
+version = "sNchm4bk"

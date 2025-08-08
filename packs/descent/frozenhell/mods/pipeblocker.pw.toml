@@ -3,11 +3,6 @@ filename = "pipeblocker-forge17_112-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wlRUwo2y/versions/aSFfVyPK/pipeblocker-forge17_112-1.2.0.jar"
-hash-format = "sha1"
-hash = "4cdc340ebd284b390a77ca29d5c0069a1e3d9b90"
-
-[update]
-[update.modrinth]
-mod-id = "wlRUwo2y"
-version = "aSFfVyPK"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/pipeblocker-forge17_112-1.2.0.jar"
+hash-format = "sha256"
+hash = "21c96f9d297505bc1ee3838496b11e5b9640a83e6c0cd6a6bf41fefb12fa7518"

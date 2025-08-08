@@ -1,0 +1,8 @@
+name = "Better Records"
+filename = "BetterRecords-1.12.2-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/BetterRecords-1.12.2-1.6.2.jar"
+hash-format = "sha256"
+hash = "31b163eae1aa0cc9a696ae58555081620e22a09dd0886e8b994fd77f62f05300"

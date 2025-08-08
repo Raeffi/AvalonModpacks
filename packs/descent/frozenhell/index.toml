@@ -193,6 +193,10 @@ file = "config/betterfoliage.cfg"
 hash = "06ea9f672f5a6c7b7c7b2c58371d9b7f6b4aec795f36d140eb1836aa1fb7f9f3"
 
 [[files]]
+file = "config/betterrecords.cfg"
+hash = "4123e137c33de628a0fb578090494677a52dda4466af3c48b52565034f16d438"
+
+[[files]]
 file = "config/biomesoplenty/biome_ids.json"
 hash = "661c59b8dc2bf2c4699c8afb1c923cae15c95e71149ca63747914ba682bddfc6"
 
@@ -958,7 +962,7 @@ hash = "4a2a2d6322a6e85cfb251ac61fb87f6fa8e8313f57be51b964a6103d6fe63ed1"
 
 [[files]]
 file = "config/gregtech/gregtech.cfg"
-hash = "45c5434183ddb14c1359e585908324374d7cfc5c9cdd6023d0e62a047a6b4db1"
+hash = "21522c1765a5e376bf9b8ce6b48591ee0540dc57f54b61c9a7f0c42383b4ff49"
 
 [[files]]
 file = "config/gregtech/modules.cfg"
@@ -2250,6 +2254,11 @@ hash = "ee536cc0cb4572824c4ab0f0ea6f3e5d2772d2760039808b413d74d88a906a9d"
 metafile = true
 
 [[files]]
+file = "mods/bdlib.pw.toml"
+hash = "d89dd31193a74be6ea9fce495bb85ee31028ea299c1d2d0741607c0347ef2127"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.toml"
 hash = "c0ed226ee850ededc3678bc6a48f2ce035633ce105049f2814cf73991f664aa0"
 metafile = true
@@ -2262,6 +2271,11 @@ metafile = true
 [[files]]
 file = "mods/better-foliage.pw.toml"
 hash = "4a94f6f3c72774c335c0e97b77d3d8e7750d34cf2f4321aca6c7ac885a659e1d"
+metafile = true
+
+[[files]]
+file = "mods/better-records.pw.toml"
+hash = "20cd3b3f568c1ba82af27eea5bee397894619232695b0ec941d4213c6e363126"
 metafile = true
 
 [[files]]
@@ -2485,16 +2499,6 @@ hash = "335eaa8906fd24e1bcdeee3f82319e088246a30c4f2700ae5a282f7ec0486370"
 metafile = true
 
 [[files]]
-file = "mods/gregicality-multiblocks.pw.toml"
-hash = "367a687077a1f51527d1af105e2d67e1cd2ff56ec90f3aeb963cc0537a97dd53"
-metafile = true
-
-[[files]]
-file = "mods/gregtech-ce-unofficial.pw.toml"
-hash = "c02a97d59ab1cc726e173bac0c456da17938724fcd124d26329302d8fc2b9b5d"
-metafile = true
-
-[[files]]
 file = "mods/guide-api.toml"
 hash = "5666b7cd02bc3899a484d0428202ed3094939b247bafb679a8d11ac021605122"
 metafile = true
@@ -2551,7 +2555,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-railroading.pw.toml"
-hash = "70b855508fde6408d710ebe3a697f614f8c7d201d1b04761046925fe9b9736ff"
+hash = "05058927d851c0561c98ba5fbe2fc4a6350c5d6c32b4cbfd92e8b7cc9702db81"
 metafile = true
 
 [[files]]
@@ -2811,7 +2815,7 @@ metafile = true
 
 [[files]]
 file = "mods/pipeblocker.pw.toml"
-hash = "f991acf92f93d1207cb2b4dcb7c4e4871245761021914db2109a8e3797b1ae0a"
+hash = "3f8318cc17c20da799716f37bbbd1be8ea87f350ecafc206617ec0063d66e3bd"
 metafile = true
 
 [[files]]
@@ -2921,7 +2925,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics.pw.toml"
-hash = "2c4a491a08c4be747a288e44ac684eea530981067b754b55f7980fe3a6856931"
+hash = "2186325e4ef5c0024889cdd93f4241b6e7ab593f2f041cb8007469efafe38d8d"
 metafile = true
 
 [[files]]
@@ -3127,11 +3131,6 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "50cf44513f7e4819aec2a6e5cc350d6665904a37ac10db0547dfbc9457b669c6"
-metafile = true
-
-[[files]]
-file = "mods/zbgt.pw.toml"
-hash = "8292b7905885adfc4d23f51c539a9e42c995e22920f3f87e0451ca14b6354ece"
 metafile = true
 
 [[files]]

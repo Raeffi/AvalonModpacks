@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/soundphysics-1.1.12.jar"
 hash-format = "sha256"
-hash = "f0c48a089ec7a9a5d7fb178c14dd3faae4f5f36653a0e8fed08ad52099e9c635"
+hash = "06aca0028416c75b91a63a9f839f6780453799f5dada97f98ab44ab379bbd0ea"

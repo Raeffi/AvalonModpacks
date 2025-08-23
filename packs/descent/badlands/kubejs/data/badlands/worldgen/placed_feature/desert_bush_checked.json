@@ -1,0 +1,31 @@
+{
+  "feature": "badlands:desert_bush",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:any_of",
+        "predicates": [
+          {
+            "type": "minecraft:would_survive",
+            "state": {
+            "Name": "minecraft:oak_sapling",
+            "Properties": {
+                "stage": "0"
+            }
+            }
+          },
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": ["minecraft:sand","minecraft:red_sand","minecraft:terracotta"],
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

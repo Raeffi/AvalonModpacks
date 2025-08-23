@@ -1,0 +1,1 @@
+execute if score dummyplayer init matches 0 run function badlands:setup

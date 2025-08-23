@@ -1,0 +1,14 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "#c:mesa",
+      "required": false
+    },
+    {
+      "id": "#c:badlands",
+      "required": false
+    },
+    "minecraft:void"
+  ]
+}

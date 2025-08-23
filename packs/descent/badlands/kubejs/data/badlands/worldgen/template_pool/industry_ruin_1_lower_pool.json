@@ -2,10 +2,19 @@
   "name": "badlands:industry_ruin_1_lower_pool",
   "fallback": "minecraft:empty",
   "elements": [
-	{	
-      "weight": 1,
+	  {	
+      "weight": 100,
       "element": {
         "location": "badlands:ruins/industry_ruin_1_lower",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	  {	
+      "weight": 10,
+      "element": {
+        "location": "badlands:ruins/industry_ruin_1_lower_2",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"

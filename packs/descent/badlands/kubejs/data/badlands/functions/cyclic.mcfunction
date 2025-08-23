@@ -1,0 +1,1 @@
+execute if score dummyplayer buildingmode matches 0 run function badlands:pillager_spawner

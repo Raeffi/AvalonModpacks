@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "badlands:urban_ruins",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spread_type": "linear",
+    "salt": 213,
+    "separation": 14,
+    "spacing": 15
+  }
+}

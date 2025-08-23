@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "badlands.code-workspace"
+hash = "69e7b37e2ebdaf8fc313bf6cb74882fed65895e5f853736e65759bafb333bc6b"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "da41baa38cd86e7388841af4095cb06b9f6f3a1c883cedfe6f0632ea129f4f06"
 
@@ -322,7 +326,7 @@ hash = "186174f71d28a3df1bd1e9850f7ace349886628f1ce6354f0adb9a92bdd1633e"
 
 [[files]]
 file = "config/croptopia/croptopia_v3.conf"
-hash = "d0f5472f5b2f124a8d716dbb3c3e09c6ce14400cf528dd6ceb035e85cf5061c1"
+hash = "244186038e292563fcfc0c19c5d12d44189c108ea3c35d578281b5ecf27b445d"
 
 [[files]]
 file = "config/ctm.toml"
@@ -431,6 +435,18 @@ hash = "68550b1b9f85bb8b055e602c6178a9a7ff8ec90d226c739f8d8c5ca66e089e47"
 [[files]]
 file = "config/immersivegeology-client.toml"
 hash = "b58dbf6935fef86ad920d7539f4e50ec88a93f26d791c582f82b2d7c1a8b3b6a"
+
+[[files]]
+file = "config/incontrol/areas.json"
+hash = "89fdb021cc87732a8f07eeefbedb0b03a0e0f79333a785b3072b69f9842af449"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "5f9c440b6bb3d2e8dc2af549d9d543dd5a1632928596d7bb5da6868b28705029"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "d461ceec9847f373059f779028d436f135c4cbbee3e7383c0d98825e4f407b9d"
 
 [[files]]
 file = "config/industrialforegoing/machine-agriculture-husbandry.toml"
@@ -885,36 +901,256 @@ file = "kubejs/config/common.properties"
 hash = "ed5794be01cf009e176b360215291b41a5afbb8c8b8cb6690e98e3588d088913"
 
 [[files]]
+file = "kubejs/data/badlands/forge/biome_modifier/desert_add_bushes.json"
+hash = "fc1cd132e638d4f60be3cf511372d821bafbf5ba638bb61c56f0ff7dbd464171"
+
+[[files]]
+file = "kubejs/data/badlands/forge/biome_modifier/wooded_badlands_add_pine.json"
+hash = "c5285091e93161a8553e4a35af9a72b4b4194ab36ddd48353a8996b51144af0f"
+
+[[files]]
+file = "kubejs/data/badlands/forge/biome_modifier/wooded_badlands_remove_oak.json"
+hash = "4a6e3e2d552550f43f59a6b64606959e94115824a77e4e4a3743fcbcd3e17dc1"
+
+[[files]]
+file = "kubejs/data/badlands/functions/cyclic.mcfunction"
+hash = "ab4569e154d441b6e57351a7ae5044212439d148eb7193e6711785781d55cde5"
+
+[[files]]
+file = "kubejs/data/badlands/functions/init.mcfunction"
+hash = "54f1ec74bd5a49e7cd307890845743be277b5213de757e5637696f62eba06db3"
+
+[[files]]
+file = "kubejs/data/badlands/functions/pillager_spawner.mcfunction"
+hash = "73b6cff0c4cdc116fde359e08c6810ad7e15f01db09d2aac57ba0662fcaeb0e1"
+
+[[files]]
+file = "kubejs/data/badlands/functions/pillagers/assault.mcfunction"
+hash = "72458f02d6e0b6a7953354b83e36570c0bf2940b13431290035ab99cc8ed0d11"
+
+[[files]]
+file = "kubejs/data/badlands/functions/pillagers/lmg.mcfunction"
+hash = "7b46255f40bdad95093d656c0bb9c06d160beb143a3be8f901ceddb846997ff6"
+
+[[files]]
+file = "kubejs/data/badlands/functions/pillagers/semi_auto.mcfunction"
+hash = "3a77809791254e9d11cb5a431bc138e9bf523f7d0b7cdfbbb523dda32c27cf31"
+
+[[files]]
+file = "kubejs/data/badlands/functions/pillagers/shotgun.mcfunction"
+hash = "9a5f3f6ca50457a4093707dc6eb3a3239ddb60bfa091003006d07df3b6b3c0c4"
+
+[[files]]
+file = "kubejs/data/badlands/functions/setup.mcfunction"
+hash = "abaf2bcda5321e4148b6c48f242747567e407d247abc3affc5e5ac763563cbb1"
+
+[[files]]
+file = "kubejs/data/badlands/immersive_weathering/tags/worldgen/biome/has_lakebed.json"
+hash = "f5631e81f0db80af2d57ce6a96be532f0408dbd3b72ab210d4c9266b4b06c033"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_curve_left.nbt"
+hash = "81462daae79ad59695a24a427a477ac942a1226c0d927c6bac106f8be62e577d"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_curve_right.nbt"
+hash = "8b49d45f1533fcadb3e9e8afff60ebac0f1cb576ab788922cbe210ee070dec0e"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_end.nbt"
+hash = "56a3d5e0a5b1e2e2c0b69fdcfa6f5b2bafac1c70e2ed445bf514101fc2a1b15e"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_intersection_1.nbt"
+hash = "aa07f9bf3e4d07dfee8237127d2cf80d6b595e8a13797f8970307eb42df87550"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_residential_left.nbt"
+hash = "9e6acd6503aeda025664e5ed28f02107b1f9a7aed18e1e1fbf45f35204231752"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_residential_right.nbt"
+hash = "8d9b91d2e622bba24f6c44de85092797bc4f6686209d30c10777daf243d0c37e"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_roundabout_1.nbt"
+hash = "e1fcb528b6a424c45116312b12fba08afeb3ab556ac59c51326e1d32ad76fa9a"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_s_curve_left.nbt"
+hash = "e4952a878999faa491b3184f6d1aaf6c897cf9ffbcdf8e269a04b5807be44c01"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_s_curve_right.nbt"
+hash = "23e1d95bace8475bed13c3ceaa802cfc7bdaadd340364bc0abf8523ab1f0a4e0"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_single_block_connector_1.nbt"
+hash = "206c4a28c855149f22ddc11f72185de3be75f944a9d79dc434c2742e01be3bbe"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_straight_1.nbt"
+hash = "69ef657c493b85c14ff904e96b14c956f5be154556cff68f453a1c4d9831d2e5"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_straight_2.nbt"
+hash = "3fe4ed6c6dba5c198b361e9c4cdb6d745d1c5d7a4a9b79c89aaf24c399993c5f"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_straight_short_1.nbt"
+hash = "fd9edf0308a71416010428432a633710f5dc1ebeb88b1f93a224d2a61646758b"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_straight_single_1.nbt"
+hash = "0c150e9a6d7e56b89140a24009686d3caa306916e4a16736207979b165711bd6"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_t_intersection_1.nbt"
+hash = "9a1e422081fa84cb85a271e378dbf6db8994c638c84751f253f48adb4d13fe6b"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_unfinished.nbt"
+hash = "4bb8750a9c7064cc6c7186ffc24cc411daa965a33360f791364db00603e6edc7"
+
+[[files]]
 file = "kubejs/data/badlands/structures/ruins/industry_ruin_1_lower.nbt"
-hash = "69b6298450bd973e9e1b6e44086d551b321e368a178e2213cebd89998a868ca1"
+hash = "4e39c752803c537b40d9d0dd01f48238f98fa69cf5f8f5496373b98325e79869"
+
+[[files]]
+file = "kubejs/data/badlands/structures/ruins/industry_ruin_1_lower_2.nbt"
+hash = "3321fe40dc8d6836c8fa51dce14dd0c5e75cc14be65a7d7842d56ee2b6cb85b2"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/industry_ruin_1_upper.nbt"
-hash = "a06ef21f10e3d512bc692d4fd380b2961586681c39d590ef85c4f70d56607fac"
+hash = "dae8138dae2a75a9f0474b1133a20f7d35f4b7f5f7774c58ace241f7433661ef"
+
+[[files]]
+file = "kubejs/data/badlands/structures/tiles/road_tile_1.nbt"
+hash = "be2657ff337290c61ba6dc77be7639e190b217dbb614ad639e25c7069e55780d"
+
+[[files]]
+file = "kubejs/data/badlands/structures/tiles/road_tile_base.nbt"
+hash = "94b752090b81e3302aeb886a8dca15699861335b0a996dc9f2848dea5aeba65e"
+
+[[files]]
+file = "kubejs/data/badlands/tags/worldgen/biome/has_desert_bush.json"
+hash = "bffb11197d4f3243817c722ba583326628695ee23c6866f0ce1c94e959532dc1"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/configured_feature/bushes_desert.json"
+hash = "c16552721d6d52b5b3890e24d3ca18da40b1e9dbe40344e9aabccda6bbd87383"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/configured_feature/desert_bush.json"
+hash = "51943778087a6271cad525113222732f23a6ff9d805174cd82498c120b64f059"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/configured_feature/trees_pine.json"
+hash = "5451773e9ae3500343c5f1d100bf75bca47f694ffd5750ad41d1974b771c3a79"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/placed_feature/bushes_desert.json"
+hash = "b26dc29f5904e34a7c8c2569fc3d7e04e18e2ca5646c0ddbdb35400e118d64e8"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/placed_feature/desert_bush_checked.json"
+hash = "f2f1576af8ff4bfa9fd636e624c01d141a21ecb4bcca80817749105aa6457953"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/placed_feature/trees_pine.json"
+hash = "1cb17d3d3b33aa2184026d00521bfc5f4080de43a9e4cc0c2455613519a33377"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/structure/industry_ruin_1.json"
-hash = "95f00ab793dd2790d04c9d6f51c616f7d0875713dfdf21ee540e89b588eda57b"
+hash = "2fe051192efb124a058d7ee50146d792c06fbca7b1284ba53e59b6062fe62ee9"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/structure/urban_ruins.json"
+hash = "3f97c1da4ec9f5af9523914c0032dde9dfb1b21928af49e8d024eeb853c91a2d"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/structure_set/industry_ruin_1.json"
 hash = "6a6ad4c0a3db9bb11bea8510b28626fb93d39f9f9e14b2177fe95425babd6ec9"
 
 [[files]]
+file = "kubejs/data/badlands/worldgen/structure_set/urban_ruins.json"
+hash = "0e5b21f6717f24dc1912c4c8a7bb6319649b0fe1747fd39ac0f18f03be16378e"
+
+[[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/industry_ruin_1_lower_pool.json"
-hash = "f21ae2b34da03960e69816f968a558a01339a91a744a412cc22cc88a0af4dceb"
+hash = "200c34d350aea678012b863271f4e5c2d9ba02610fcc82ac62dad8800cd1d4d8"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/industry_ruin_1_upper_pool.json"
-hash = "4e0a81ab453268bdc7c1f058f914869c20023a92b0390157b1f49862fbf11c28"
+hash = "99435c02366bb26d308c37642d5e25547be9ea9ddb506cf53198a67426de4055"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/template_pool/road_pool.json"
+hash = "616bd325d4ebf35bea99ebeb9caae31420253d13c5eee1b782890017a299ae4f"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/template_pool/road_tile_base_pool.json"
+hash = "2b35083e735c034d4365fe5a2cf146dc3138b7b19b31741905a22a6780fc2bfa"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/template_pool/road_tile_pool.json"
+hash = "dcf198c6d77b20de0af484bd20d41851c1f9f4a6cb190d942e0797bb2713df72"
 
 [[files]]
 file = "kubejs/data/minecraft/dimension/overworld.json"
-hash = "07ded67f76db6c5e27027af3b9d06a55aef2319d3c110740e4c0651a3d88515b"
+hash = "5561adc3dd0fc527e22a1f03f3e550fbe1831b147455f33ad24fc3482effecd1"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/pillager_outpost/feature_cage1.nbt"
+hash = "cd7e70436749a5c89fa89ddbf711aed0f797ed172c5cfb20c6953d0484f160fd"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/pillager_outpost/feature_cage2.nbt"
+hash = "527207ddcdd869d525b2ae7ea6431f3aa7ceb06b61a2d1f5c7b94ecaaf07fff6"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/pillager_outpost/feature_cage_with_allays.nbt"
+hash = "863a7937fe2efb93537cc7876593fe1e9ab2717d2e4c18a7429d47fdf514914b"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/pillager_outpost/feature_logs.nbt"
+hash = "fe57d9e8d5da9e763d218aa27aab1718fc3a24c468888641f61eef9153c974ef"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/pillager_outpost/feature_targets.nbt"
+hash = "d43804037f30f7e8c81962e650e3dd4981053bbbf39bcc73d35359e0e711ff43"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/pillager_outpost/feature_tent1.nbt"
+hash = "f350f4f7161fa4b9f73736577e957c4cbdd4398113e56821697f28e7a669b1c0"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/pillager_outpost/feature_tent2.nbt"
+hash = "c04e6b55ce4e0724cde72a14661ae865b866c43681d090adcdf6fb9af0033b7a"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/pillager_outpost/watchtower.nbt"
+hash = "80932d0153c308eb9146e2eed31f2d52bb834847a08f6fbba2a1eaeba2292b72"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/pillager_outpost/watchtower_overgrown.nbt"
+hash = "e0310e9479e6edacf572284336279a2f1fa026471530e29bf54b1a64a0813b9d"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/functions/load.json"
+hash = "116f5411d78d913b33abdd683027b5c2aaad1cdf0120e87aa03a87b4ae8817ae"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/functions/tick.json"
+hash = "d392d702387d1ce8cb2cb42fbc8a4619d50adbae84088416159ffc1c57c79fa4"
 
 [[files]]
 file = "kubejs/server_scripts/fixup.js"
-hash = "cfc111f647a6777fe24ef626fe9b1b16bdb5d23d1f979c6096b8463ac6d82d26"
+hash = "4642d0efbaf8a632cac6ffbce47c94b4e235f15e304ddde91923437659058e07"
+
+[[files]]
+file = "kubejs/server_scripts/yeetus_deletus_earthen_clay.js"
+hash = "bc0b8f03a51f6ba3b4405f0225e265dde9292d61bd741303b6aa2c456917f2f0"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -1021,6 +1257,16 @@ hash = "702433eedd02735d948b78c6c976dbb4b1fb8edf07888fdd2a35892a55a46777"
 metafile = true
 
 [[files]]
+file = "mods/catwalks-n-dogwalks.pw.toml"
+hash = "4ed6d33e27e911b410341104044b20926575ff56a40f8823bcf498ec9ceee993"
+metafile = true
+
+[[files]]
+file = "mods/caves__canyons.pw.toml"
+hash = "ce8e8538d1ed556813372c8a876eda0e8fc5a18eefb775ae14f776d615436819"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
 metafile = true
@@ -1038,6 +1284,11 @@ metafile = true
 [[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
 
 [[files]]
@@ -1076,6 +1327,16 @@ hash = "60e9680cc6d93a546cfc68dfbec2a85d273e18b2d039c373de2fdc764c364e9a"
 metafile = true
 
 [[files]]
+file = "mods/commandstructures.pw.toml"
+hash = "24996aa715f127ba2116b5e95dacfd6ea63104ce258d5b975a6a0d3ea94d8434"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -1088,6 +1349,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
+file = "mods/countereds-terrain-slabs.pw.toml"
+hash = "3f2ac8361bebe6d3abf4368bb5da603b5a1b10102e623baca19d911d6b7ddb6d"
 metafile = true
 
 [[files]]
@@ -1217,7 +1483,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+hash = "9c553500c771ace491481e52fb2a144e97ce332f03bc36155b62bcf5e64877ed"
 metafile = true
 
 [[files]]
@@ -1291,8 +1557,8 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/flowing-fluids.pw.toml"
-hash = "f4c279f7af64e3e271d832a8848640ed567b87c4ec96337d34a56c9ffe5d4af1"
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
 
 [[files]]
@@ -1337,7 +1603,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-geology.pw.toml"
-hash = "cbfff1a6bb8c55281c89e3bd5985fa3bfb8576c186b1edd9808c95bfc2bef88b"
+hash = "16209a01ed7163d1c133af6662b3b8e94b19fcf70e5668430b2d37899949f2cd"
 metafile = true
 
 [[files]]
@@ -1348,6 +1614,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
+metafile = true
+
+[[files]]
+file = "mods/improved-village-placement.pw.toml"
+hash = "c56534f8cc3dd924da2de398d09fa67552380cbc0b6826d9ff04c8b9ff620806"
 metafile = true
 
 [[files]]
@@ -1416,6 +1687,16 @@ hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
 metafile = true
 
 [[files]]
+file = "mods/lithosphere.pw.toml"
+hash = "f23e7c2660c3b174b83e3037d8b23a76bf8b8afac58ca5624682ad269c8fd64a"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "fba7cfc8f29a5244eb9a420d8ced33ecf375941e8c6681a324e0490913006b6f"
 metafile = true
@@ -1481,8 +1762,17 @@ hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
+file = "mods/natures-spirit.pw.toml.disabled"
+hash = "47750d3e377b6a4c41e5b96705fabd28aba4491831dd70bb7d1cbeabc767f129"
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 metafile = true
 
 [[files]]
@@ -1581,9 +1871,8 @@ hash = "d0bf99ee6738fe077f5da39695f8f04aaa5fc25b5aad9387310d9d6134759500"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures-forge.pw.toml"
+file = "mods/repurposed-structures-forge.pw.toml.disabled"
 hash = "0b5678f04583534f12a90853e74725679605e1b00b087afb0dc15d555e9dad9e"
-metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
@@ -1656,6 +1945,11 @@ hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
 
 [[files]]
+file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
+metafile = true
+
+[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "8781fb6bf8a0b948bf2f802c3df1425f84f5df9c5cda4d5c5891f4be715b2bcc"
 metafile = true
@@ -1691,14 +1985,8 @@ hash = "35d8abbe04c34d0069f5faaa5e00a27e5448cd79fe658b13baade2926d1a7790"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "e5f7a51585bb0dbec0d4c33cc06797008f1fff434872766d8fe2fd19e06f3b37"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
-metafile = true
+file = "mods/terrablender.pw.toml.disabled"
+hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"
@@ -1814,3 +2102,7 @@ metafile = true
 file = "options.txt"
 hash = "7bf0ed2590804a6468a5a4fd8428ca0b94f88ef726f19968a4411f38031a84fa"
 preserve = true
+
+[[files]]
+file = "serve.bat"
+hash = "93046cf57b2a40de3662af499ecd50ae2370cd6338ac9b7af4dcfdf34abfa908"

@@ -1,0 +1,3 @@
+summon pillager ~ ~ ~ {Health:20,PersistenceRequired:1b,ActiveEffects:[{Id:11,Duration:999999,Amplifier:1,ShowParticles:0b}],Attributes:[{Name:"generic.movement_speed",Base:-1024f},{Name:"generic.follow_range",Base:50f},{Name:"generic.max_health",Base:20f}],Tags: ["GunAttackAssigned", "MobGunner"],HandItems:[{id:"jeg:waterpipe_shotgun",Count:1},{}],HandDropChances:[0.1f,0f],ArmorItems:[{id:"immersiveengineering:armor_steel_boots",Count:1},{id:"immersiveengineering:armor_steel_leggings",Count:1},{id:"immersiveengineering:armor_steel_chestplate",Count:1},{id:"immersiveengineering:armor_steel_helmet",Count:1}],ArmorDropChances:[0.1f,0.1f,0.1f,0.1f]}
+
+kill @s

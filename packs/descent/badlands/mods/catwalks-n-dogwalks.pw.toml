@@ -1,0 +1,13 @@
+name = "Catwalks 'n dogwalks"
+filename = "ags_catwalks-0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mXATEY0D/versions/nYlqp5Qh/ags_catwalks-0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "af0e644a7fb6aa2b5df04be307d037d2c894b727e374fc786ae4b0404317f8f6f658b98fda2215216c98cf824e2b9cdd1b684bf61f974fcfe20b1ccfc4f29e17"
+
+[update]
+[update.modrinth]
+mod-id = "mXATEY0D"
+version = "nYlqp5Qh"

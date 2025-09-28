@@ -3,11 +3,11 @@ filename = "supplementaries-1.20-3.1.18.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "129c7ba5a3fd16671dedc0c139e987f7b7cfd130"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/S4IygZ9g/supplementaries-1.20-3.1.18.jar"
+hash-format = "sha512"
+hash = "c951776268f3353bfcae995325e143879f6694d8b539557b13446f36ba12a4cef8fdc3d22b18741f2f1f87037c0bdfd25163828806c630b3507c4733e1436bd7"
 
 [update]
-[update.curseforge]
-file-id = 6228530
-project-id = 412082
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "S4IygZ9g"

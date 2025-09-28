@@ -231,7 +231,127 @@
       "weight": 1,
       "element": {
         "projection": "rigid",
+        "location": "badlands:roads/road_residential_both",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	  {	
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
         "location": "badlands:roads/road_single_block_connector_1",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:roads/road_diag_curve_right",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:roads/road_diag_curve_left",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:roads/road_diagonal_edge",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:roads/road_diagonal_middle",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:roads/road_diagonal_middle",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:roads/road_short_end_1",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:roads/road_short_end_2",
         "processors": [
             {
                 "processor_type": "gravity",

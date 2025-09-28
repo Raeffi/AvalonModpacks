@@ -15,6 +15,18 @@
                 {"Name":"generic.follow_range","Base":"70f"}
             ]
         }
+    },
+    {
+        "mob": ["guardvillagers:guard"],
+        "when": "finalize",
+        "result": "allow",
+        "helditem" :["30=minecraft:crossbow","5=jeg:semi_auto_rifle","20=jeg:revolver","15=jeg:combat_pistol"],
+        "nbt": {
+            "Tags": ["GunAttackAssigned", "MobGunner"],
+            "Attributes": [
+                {"Name":"generic.follow_range","Base":"70f"}
+            ]
+        }
     }
 ]
 

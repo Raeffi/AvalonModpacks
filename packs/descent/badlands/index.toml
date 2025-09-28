@@ -446,7 +446,7 @@ hash = "5f9c440b6bb3d2e8dc2af549d9d543dd5a1632928596d7bb5da6868b28705029"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "d461ceec9847f373059f779028d436f135c4cbbee3e7383c0d98825e4f407b9d"
+hash = "be4bb480857aa9d6cdbe5004234f9740dd74acde573b05f9422e7d3e8d3608d3"
 
 [[files]]
 file = "config/industrialforegoing/machine-agriculture-husbandry.toml"
@@ -914,7 +914,7 @@ hash = "4a6e3e2d552550f43f59a6b64606959e94115824a77e4e4a3743fcbcd3e17dc1"
 
 [[files]]
 file = "kubejs/data/badlands/functions/cyclic.mcfunction"
-hash = "ab4569e154d441b6e57351a7ae5044212439d148eb7193e6711785781d55cde5"
+hash = "eac6ff9b946925a5781e5e4213d5374bbd9768a0802e510a6d43eca0d2554715"
 
 [[files]]
 file = "kubejs/data/badlands/functions/init.mcfunction"
@@ -926,27 +926,51 @@ hash = "73b6cff0c4cdc116fde359e08c6810ad7e15f01db09d2aac57ba0662fcaeb0e1"
 
 [[files]]
 file = "kubejs/data/badlands/functions/pillagers/assault.mcfunction"
-hash = "72458f02d6e0b6a7953354b83e36570c0bf2940b13431290035ab99cc8ed0d11"
+hash = "a3b10b5913d657be94081df38ba79d46e66ff1238de66db3d6873ed4669ade17"
 
 [[files]]
 file = "kubejs/data/badlands/functions/pillagers/lmg.mcfunction"
-hash = "7b46255f40bdad95093d656c0bb9c06d160beb143a3be8f901ceddb846997ff6"
+hash = "d7227c9b4fdd39b50bc4ac50bd25693dbd2674a387774b50f31daeb854e6345c"
 
 [[files]]
 file = "kubejs/data/badlands/functions/pillagers/semi_auto.mcfunction"
-hash = "3a77809791254e9d11cb5a431bc138e9bf523f7d0b7cdfbbb523dda32c27cf31"
+hash = "c2cdff793f4e887b25944890fff473ecd7c2fae1151ace6346746b5a40680183"
 
 [[files]]
 file = "kubejs/data/badlands/functions/pillagers/shotgun.mcfunction"
-hash = "9a5f3f6ca50457a4093707dc6eb3a3239ddb60bfa091003006d07df3b6b3c0c4"
+hash = "06b66d636d6d66739c1dae755a0f2eed47a6a12664cf81d9df5ff275542db7f2"
 
 [[files]]
 file = "kubejs/data/badlands/functions/setup.mcfunction"
 hash = "abaf2bcda5321e4148b6c48f242747567e407d247abc3affc5e5ac763563cbb1"
 
 [[files]]
+file = "kubejs/data/badlands/functions/villager_spawner.mcfunction"
+hash = "26e27f9686fb46fe7a17bbcd9cd48c6e94a38425a79bc3dc2120f57d5d6d60ac"
+
+[[files]]
+file = "kubejs/data/badlands/functions/villagers/bolt_action.mcfunction"
+hash = "88e7f5ae19595beaa10ee534525571337e6f5f70ff9b856f7123ecb078d2816c"
+
+[[files]]
+file = "kubejs/data/badlands/functions/villagers/infantry.mcfunction"
+hash = "a7899e5f4428ebbabd38be963f4de7235fb0ca6b0bcd9eca3d5efb77a14177c2"
+
+[[files]]
+file = "kubejs/data/badlands/functions/villagers/lmg.mcfunction"
+hash = "1876615cafb07be7b932da6b73ae648c14f21e6c20d0e0f72b2314493ae3efe3"
+
+[[files]]
+file = "kubejs/data/badlands/functions/villagers/shotgun.mcfunction"
+hash = "274045db8ec81bfac5eaf97497a91333857a17eaf3258600bdbbf154f5f71cef"
+
+[[files]]
 file = "kubejs/data/badlands/immersive_weathering/tags/worldgen/biome/has_lakebed.json"
 hash = "f5631e81f0db80af2d57ce6a96be532f0408dbd3b72ab210d4c9266b4b06c033"
+
+[[files]]
+file = "kubejs/data/badlands/lithostitched/worldgen_modifier/restrict_ruins.json"
+hash = "5c29fcb05b2331bfd434950fa1919c05dc2ce02434e1e122fabdb5313aa19228"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_curve_left.nbt"
@@ -957,6 +981,22 @@ file = "kubejs/data/badlands/structures/roads/road_curve_right.nbt"
 hash = "8b49d45f1533fcadb3e9e8afff60ebac0f1cb576ab788922cbe210ee070dec0e"
 
 [[files]]
+file = "kubejs/data/badlands/structures/roads/road_diag_curve_left.nbt"
+hash = "e99ee869cb92d50d0049bafc1140a9d5cfd0b7f0776c1e7e659498ba200973d1"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_diag_curve_right.nbt"
+hash = "7d57e9749b07f0671eed621911fc20c649d470bf7b86ed5fda41b43488c4f293"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_diagonal_edge.nbt"
+hash = "fc3172e2f012ab0db3511e3e11ec53cbc3eea71aa9180ff7a6874d81c55287cb"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_diagonal_middle.nbt"
+hash = "d3a9bc2813e4de5fe9b9ab4c85bfc7dfa8787ff7cddfc088795bfe38e79e036d"
+
+[[files]]
 file = "kubejs/data/badlands/structures/roads/road_end.nbt"
 hash = "56a3d5e0a5b1e2e2c0b69fdcfa6f5b2bafac1c70e2ed445bf514101fc2a1b15e"
 
@@ -965,16 +1005,20 @@ file = "kubejs/data/badlands/structures/roads/road_intersection_1.nbt"
 hash = "aa07f9bf3e4d07dfee8237127d2cf80d6b595e8a13797f8970307eb42df87550"
 
 [[files]]
+file = "kubejs/data/badlands/structures/roads/road_residential_both.nbt"
+hash = "d928ac82b33875ad76241a3a428c9ff9395aa7c78e494b43fc57e0874faf25bb"
+
+[[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_left.nbt"
-hash = "9e6acd6503aeda025664e5ed28f02107b1f9a7aed18e1e1fbf45f35204231752"
+hash = "468dc93385d9f33cff679679b78f397b7255d7d5eed98d6c5db2ae0b9789da6e"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_right.nbt"
-hash = "8d9b91d2e622bba24f6c44de85092797bc4f6686209d30c10777daf243d0c37e"
+hash = "7cd0e61ab0c67cf513da475f178945c3d0a4403ec0b511275171e1bbe3cdcf6c"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_roundabout_1.nbt"
-hash = "e1fcb528b6a424c45116312b12fba08afeb3ab556ac59c51326e1d32ad76fa9a"
+hash = "a8abe37958715df5c1a37059109d5611251ecdcb9486981b3c77242f4e55bd64"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_s_curve_left.nbt"
@@ -985,8 +1029,16 @@ file = "kubejs/data/badlands/structures/roads/road_s_curve_right.nbt"
 hash = "23e1d95bace8475bed13c3ceaa802cfc7bdaadd340364bc0abf8523ab1f0a4e0"
 
 [[files]]
+file = "kubejs/data/badlands/structures/roads/road_short_end_1.nbt"
+hash = "9480f38d6cb6a71a0bc19b260b62a8304fac07908da2d3ebc9e1be8e907c8421"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_short_end_2.nbt"
+hash = "90a3b422b22bc981bf830fa64e87af5f7611abbfa9fd282fd1141797d98b487e"
+
+[[files]]
 file = "kubejs/data/badlands/structures/roads/road_single_block_connector_1.nbt"
-hash = "206c4a28c855149f22ddc11f72185de3be75f944a9d79dc434c2742e01be3bbe"
+hash = "744ab0a7343d34bfc2b94b3e51ddfbb661067a073b4f596b0c61270a1206472d"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_straight_1.nbt"
@@ -1026,7 +1078,15 @@ hash = "dae8138dae2a75a9f0474b1133a20f7d35f4b7f5f7774c58ace241f7433661ef"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_1.nbt"
-hash = "be2657ff337290c61ba6dc77be7639e190b217dbb614ad639e25c7069e55780d"
+hash = "816458ff9653870d12e45a41877e66237f0f71cbe464d7e99463d5aa5659de09"
+
+[[files]]
+file = "kubejs/data/badlands/structures/tiles/road_tile_2.nbt"
+hash = "511a602222db673fee6490c0847281d62e66d85b701d0a23bb52f8a73958f4f1"
+
+[[files]]
+file = "kubejs/data/badlands/structures/tiles/road_tile_3.nbt"
+hash = "f50c986230493d0e2841ab3edd0c0297b6da789ffb61b0cb464cecd1b6004ed8"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_base.nbt"
@@ -1035,6 +1095,14 @@ hash = "94b752090b81e3302aeb886a8dca15699861335b0a996dc9f2848dea5aeba65e"
 [[files]]
 file = "kubejs/data/badlands/tags/worldgen/biome/has_desert_bush.json"
 hash = "bffb11197d4f3243817c722ba583326628695ee23c6866f0ce1c94e959532dc1"
+
+[[files]]
+file = "kubejs/data/badlands/tags/worldgen/biome/is_land.json"
+hash = "59e923d85b8945b3888f6b65f7527e5974d8b9fb84c227012ff363e8e695163d"
+
+[[files]]
+file = "kubejs/data/badlands/tags/worldgen/structure/urban_ruins.json"
+hash = "92b4c61c178e2c3a5b73d8214b4835b03875de6bc4b6423ce8b91297cb60a57b"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/configured_feature/bushes_desert.json"
@@ -1066,7 +1134,7 @@ hash = "2fe051192efb124a058d7ee50146d792c06fbca7b1284ba53e59b6062fe62ee9"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/structure/urban_ruins.json"
-hash = "3f97c1da4ec9f5af9523914c0032dde9dfb1b21928af49e8d024eeb853c91a2d"
+hash = "91a7d097e8de655c5f0c0e52338d0b33894d89af803eed75506dda8ab95a58c5"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/structure_set/industry_ruin_1.json"
@@ -1086,7 +1154,7 @@ hash = "99435c02366bb26d308c37642d5e25547be9ea9ddb506cf53198a67426de4055"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/road_pool.json"
-hash = "616bd325d4ebf35bea99ebeb9caae31420253d13c5eee1b782890017a299ae4f"
+hash = "023f70051b51fab66430bba2d32117d21bf79a5a9b4fd97fb235b3300507eabb"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/road_tile_base_pool.json"
@@ -1094,7 +1162,11 @@ hash = "2b35083e735c034d4365fe5a2cf146dc3138b7b19b31741905a22a6780fc2bfa"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/road_tile_pool.json"
-hash = "dcf198c6d77b20de0af484bd20d41851c1f9f4a6cb190d942e0797bb2713df72"
+hash = "1012bf4f3657075ab1c40659acb26bc032127a22bd38d6f27975126ae450e250"
+
+[[files]]
+file = "kubejs/data/farmersdelight/structures/village/houses/desert_compost_pile.nbt"
+hash = "385cb74c695f94ce0274169b977c43932026b6727f7d9965fdb00f0b88c2a935"
 
 [[files]]
 file = "kubejs/data/minecraft/dimension/overworld.json"
@@ -1135,6 +1207,186 @@ hash = "80932d0153c308eb9146e2eed31f2d52bb834847a08f6fbba2a1eaeba2292b72"
 [[files]]
 file = "kubejs/data/minecraft/structures/pillager_outpost/watchtower_overgrown.nbt"
 hash = "e0310e9479e6edacf572284336279a2f1fa026471530e29bf54b1a64a0813b9d"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/desert_lamp_1.nbt"
+hash = "899598d23da8a13d87c9ef16c1c289dfef100cab7cffa5ff268024cc4c912474"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_animal_pen_1.nbt"
+hash = "1383b94ee22444bc73c2fe133da5b4bfd1729afd5d607442dd00a3986478b178"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_animal_pen_2.nbt"
+hash = "aacf81050626cb6a7be9d7cde96ca98b271f51a5fed67c199f4891bccd2eca65"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_armorer_1.nbt"
+hash = "56896ddc6d03871a9d124b4bd6e5c63da2b75bc1b732c96a1ab08e8d1699b61f"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_butcher_shop_1.nbt"
+hash = "b9830c16ce7b734c54b602b4548b5ed8b5e1caa51615bedd6b768c20a6faee73"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_cartographer_house_1.nbt"
+hash = "1ffd510714c64cfae2980e62fe44a3d6aac7985e6a442991f7a2dd410c7ef4b7"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_farm_1.nbt"
+hash = "3fbe85b8800498fd2c678e3b5254c92cb1808a63b28f59939fad6f1addd0a7d1"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_farm_2.nbt"
+hash = "0b4aa27cb33fd54a295bac935842a10730bf878c0d569ff2de43ec3b66e635f2"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_fisher_1.nbt"
+hash = "707dc327ebdfbf371809f6f78d2a94e35ea0ac2c8342254a9bfa6601e3f5b101"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_fletcher_house_1.nbt"
+hash = "65a9534de756dfc6101eb3894b556c2ff3cf07dfb4bef84427a3900f29bb8e32"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_large_farm_1.nbt"
+hash = "37c746131c3a93f8714c16962c69ea7a7981fcceeec37bf5d6441b906862985d"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_library_1.nbt"
+hash = "1ea72d65e9085e994f52f125675bb13c6890ed789619cb9f1378b9475261e215"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_mason_1.nbt"
+hash = "d7f2388a38548a585fbb62ec2460e1bb4fe04780ae3a5d141739e5045602cce0"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_medium_house_1.nbt"
+hash = "4e97f83184a52796564183282ec7f9df4c48751a6d7a02241333d21ba0b7dc12"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_medium_house_2.nbt"
+hash = "f19dcb15b95c9dfb7db4c8c80a30f3fc7c1bb9a65cbf7cb1aa1af3cc45159927"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_shepherd_house_1.nbt"
+hash = "79f048f9090eb87495131a2f26cf28f0d4b3ff6d1868b7bebcd8a99b8b125247"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_small_house_1.nbt"
+hash = "68003dde02088f25af9e435cbc2cb68692fb1d7ab19acc68c219d4ea21647454"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_small_house_2.nbt"
+hash = "58878ea12af4bb3bd6593da1d81e1b69b7235ef29362c061812b892d6806e42f"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_small_house_3.nbt"
+hash = "b9823e589c3c5ca4c8d248c21a7ae4e329835fc6365e01512d509658d4388625"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_small_house_4.nbt"
+hash = "4b67b095b6ab34ebb78a077ed3fb0abcf6d19537976164e42f7f08f3da2e49ed"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_small_house_5.nbt"
+hash = "32db7318027de79d6eab58d3f8ddf6de570391a023549fb7f4346678e4cdcbfb"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_small_house_6.nbt"
+hash = "b445e1e07b0556378743b1854f58c810cc5c0777f994d15b99f44190923beca5"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_small_house_7.nbt"
+hash = "cad3f983ded3fe6b7bb802b9f8e943f2b9d22bc2eb81981b92fe2afc1e53c2b6"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_small_house_8.nbt"
+hash = "f294e962022b0c490aeac6b713b465f0bc867ac089a4ce796da92f5642091209"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_tannery_1.nbt"
+hash = "74aa72ecc5010eb8b35139914ad9ad80617430511c54590e25c7181fb2070fc4"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_temple_1.nbt"
+hash = "2c4d7f0fdff1fc231270d5d55540aa670f20e9bb21469d3a5875e9afae624df1"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_temple_2.nbt"
+hash = "84805231a00157976b2de72a4a22a7566eb8217527941aee367728f9d017761d"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_tool_smith_1.nbt"
+hash = "65980093ab316c3fa5eebb0cf44453af3ffb49d0e4083cc2fe52f737f3bd6538"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/houses/desert_weaponsmith_1.nbt"
+hash = "200cd9bbeccea3c6e7d583a2f4c807eaf89e1bc3673139d71ac277a18a8253b3"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/corner_01.nbt"
+hash = "549520e199c5975290fba8deb20932b61db5ce70d994f479f17e0c51c493be3d"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/corner_02.nbt"
+hash = "16ab78c213b0e3edfaf9278d969fc8a93c646e15af268c6d8be067eee65a2163"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/crossroad_01.nbt"
+hash = "2a813774c6acc06f13d433743b92c7ef10ad355ee4892b561328e4db432c3fef"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/crossroad_02.nbt"
+hash = "86c1dad27243f361f9876659177728f3443824c9a4358e9672012aef44999904"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/crossroad_03.nbt"
+hash = "0c6308d58355e3f21e68c2985203dfe802f034f25a497b739850ef453b24abe0"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/square_01.nbt"
+hash = "b518d543327a5bcf35d269bfce06ca138eb31fc541de9d52e4c30b0341e6ea41"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/square_02.nbt"
+hash = "05706294d75c2dec4f16e4f6d67b6eef68284d2091d8beb91efb313fdd3f4cb1"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/straight_01.nbt"
+hash = "5bfb51927e348fe2b4686e8f5b49b6a41c042dc166a7847c26600f7938b2f8f6"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/straight_02.nbt"
+hash = "3adc12df52afa4ca3965d043fb745b1b03637cab4608af25aa05aa8ea5520885"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/straight_03.nbt"
+hash = "df8a6890c9f799d9a5aeba174cc696ca8887b8473ee3db6bd086667648abd5e0"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/streets/turn_01.nbt"
+hash = "68a79ff2b214dd585bec68b9f19dcaa1516123464116ea1757e7d1011083bb02"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/terminators/terminator_01.nbt"
+hash = "783ac1c71dead708154419edf44d6af0fc12bf640b72521710365e24068e3769"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/terminators/terminator_02.nbt"
+hash = "b47e0e81edc929b4ea02cf56cc18f7845d752287bb62a523f4444a53b26653ff"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/town_centers/desert_meeting_point_1.nbt"
+hash = "090d7acbd05de5149b0589901f85b0b26d94fd09f4817247b5ca9a5eaf062236"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/town_centers/desert_meeting_point_2.nbt"
+hash = "25fa399004b49341119b26fc7b81d4fb497045d36f0a8a1b9c95aad6fc5110c3"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/village/desert/town_centers/desert_meeting_point_3.nbt"
+hash = "81edf0c8bf089172aac9d171bcbfa28924865f2afaf9e19de3dcdb34834dfce5"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/functions/load.json"
@@ -1557,6 +1809,11 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
+file = "mods/ffs-fancy-fluid-storage.pw.toml"
+hash = "f69d25a5b864ae427cb20cb4afb167a58ed3b53374b4c76724851c8d9071262e"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
@@ -1584,6 +1841,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5290e7961ab2ca528b8bf3fecfbcb33240029314fd7cb2086c06c3ee13daf1fc"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "d3c46e2cf7b6cb19617bd0fab5bbeee7826c0a6371a48d1249b2fc3370a2da37"
 metafile = true
 
 [[files]]
@@ -1659,6 +1921,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 metafile = true
 
 [[files]]
@@ -1762,10 +2029,6 @@ hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
-file = "mods/natures-spirit.pw.toml.disabled"
-hash = "47750d3e377b6a4c41e5b96705fabd28aba4491831dd70bb7d1cbeabc767f129"
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
@@ -1793,6 +2056,11 @@ metafile = true
 [[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "87f3ec2b65da8fedcf571b8e172b2e32f76f249e7f83ff055caecc69e9d27182"
+metafile = true
+
+[[files]]
+file = "mods/panoramica.pw.toml"
+hash = "69922b5a8b4b6bf6d8b6651ebcabdc2d9fac4856ba40ff67b2fba2fae129c06e"
 metafile = true
 
 [[files]]
@@ -1871,10 +2139,6 @@ hash = "d0bf99ee6738fe077f5da39695f8f04aaa5fc25b5aad9387310d9d6134759500"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures-forge.pw.toml.disabled"
-hash = "0b5678f04583534f12a90853e74725679605e1b00b087afb0dc15d555e9dad9e"
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
 metafile = true
@@ -1912,6 +2176,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
 metafile = true
 
 [[files]]
@@ -1976,17 +2245,13 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6567b97fa70dd81ab517ce62fb6ebf0325710bb6fb5f175a09fc7b622fa57d62"
+hash = "1a7d83ff96739b35bfb9035ff23db0a95d30bceb1a018b078a2df96fcf09ab59"
 metafile = true
 
 [[files]]
 file = "mods/tbhautismcreaturemod.pw.toml"
 hash = "35d8abbe04c34d0069f5faaa5e00a27e5448cd79fe658b13baade2926d1a7790"
 metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml.disabled"
-hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"

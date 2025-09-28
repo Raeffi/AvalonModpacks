@@ -2,8 +2,27 @@
   "name": "badlands:road_tile_pool",
   "fallback": "minecraft:empty",
   "elements": [
-	  {	
-      "weight": 1,
+
+    {	
+      "weight": 10,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:tiles/road_tile_3",
+        "processors": [],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 15,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:tiles/road_tile_2",
+        "processors": [],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 20,
       "element": {
         "projection": "rigid",
         "location": "badlands:tiles/road_tile_1",

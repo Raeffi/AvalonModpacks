@@ -1,0 +1,39 @@
+{
+  "name": "badlands:ruin_driveway_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {	
+      "weight": 15,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:ruins/driveway/industry_ruin_1_lower_1",
+        "processors": [],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 4,
+      "element": {
+        "projection": "terrain_matching",
+        "location": "badlands:ruins/driveway/driveway_stub_end",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 3,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:ruins/driveway/industry_ruin_1_lower_2",
+        "processors": [],
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

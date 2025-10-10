@@ -970,15 +970,15 @@ hash = "f5631e81f0db80af2d57ce6a96be532f0408dbd3b72ab210d4c9266b4b06c033"
 
 [[files]]
 file = "kubejs/data/badlands/lithostitched/worldgen_modifier/restrict_ruins.json"
-hash = "5c29fcb05b2331bfd434950fa1919c05dc2ce02434e1e122fabdb5313aa19228"
+hash = "45b11c1c7593152f59333316d7be3d7b2fccb6fb7892ab0d167a11a35cbce546"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_curve_left.nbt"
-hash = "81462daae79ad59695a24a427a477ac942a1226c0d927c6bac106f8be62e577d"
+hash = "6ea8bf54d494be9615e54432ba15c2da3badc66f641fd9fcccd8aba951c9cebb"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_curve_right.nbt"
-hash = "8b49d45f1533fcadb3e9e8afff60ebac0f1cb576ab788922cbe210ee070dec0e"
+hash = "f39f4fee56763bfbfede84eae772be4c42ee90f6cf45e9bc3df24f789708878e"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_diag_curve_left.nbt"
@@ -997,6 +997,10 @@ file = "kubejs/data/badlands/structures/roads/road_diagonal_middle.nbt"
 hash = "d3a9bc2813e4de5fe9b9ab4c85bfc7dfa8787ff7cddfc088795bfe38e79e036d"
 
 [[files]]
+file = "kubejs/data/badlands/structures/roads/road_driveway_stub.nbt"
+hash = "e7a2365e5a084ea601e0e67e3468fb700aeb66e32f389be347032ae6d3899c39"
+
+[[files]]
 file = "kubejs/data/badlands/structures/roads/road_end.nbt"
 hash = "56a3d5e0a5b1e2e2c0b69fdcfa6f5b2bafac1c70e2ed445bf514101fc2a1b15e"
 
@@ -1006,15 +1010,15 @@ hash = "aa07f9bf3e4d07dfee8237127d2cf80d6b595e8a13797f8970307eb42df87550"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_both.nbt"
-hash = "d928ac82b33875ad76241a3a428c9ff9395aa7c78e494b43fc57e0874faf25bb"
+hash = "f429e5527ce9f5c99c57648de1eb8cccba1b4f4db9e2e97274e3fbf8cdc0bb25"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_left.nbt"
-hash = "468dc93385d9f33cff679679b78f397b7255d7d5eed98d6c5db2ae0b9789da6e"
+hash = "a8ea62c2b2721b900aca2878d880d923936495c5b89480fb21b9b3e9dc94ca83"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_right.nbt"
-hash = "7cd0e61ab0c67cf513da475f178945c3d0a4403ec0b511275171e1bbe3cdcf6c"
+hash = "a32b10c40eeeb1abdfe74e1abf2908f5e244205554fbfa3f9178c21486ddbc91"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_roundabout_1.nbt"
@@ -1042,11 +1046,11 @@ hash = "744ab0a7343d34bfc2b94b3e51ddfbb661067a073b4f596b0c61270a1206472d"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_straight_1.nbt"
-hash = "69ef657c493b85c14ff904e96b14c956f5be154556cff68f453a1c4d9831d2e5"
+hash = "69c62506517305ff9811a260ea8ee6e17dc5d82810cba2b6ea74e42ed9d6965a"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_straight_2.nbt"
-hash = "3fe4ed6c6dba5c198b361e9c4cdb6d745d1c5d7a4a9b79c89aaf24c399993c5f"
+hash = "506a73cfaf20b24f397f0c4342dffa9da1c394caf77de91954883e917a4be6b8"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_straight_short_1.nbt"
@@ -1065,28 +1069,32 @@ file = "kubejs/data/badlands/structures/roads/road_unfinished.nbt"
 hash = "4bb8750a9c7064cc6c7186ffc24cc411daa965a33360f791364db00603e6edc7"
 
 [[files]]
-file = "kubejs/data/badlands/structures/ruins/industry_ruin_1_lower.nbt"
-hash = "4e39c752803c537b40d9d0dd01f48238f98fa69cf5f8f5496373b98325e79869"
+file = "kubejs/data/badlands/structures/ruins/driveway/driveway_stub_end.nbt"
+hash = "a615995173f0193b65f841af16ac5c14f8466628d7a755beecc73653b3f38728"
 
 [[files]]
-file = "kubejs/data/badlands/structures/ruins/industry_ruin_1_lower_2.nbt"
-hash = "3321fe40dc8d6836c8fa51dce14dd0c5e75cc14be65a7d7842d56ee2b6cb85b2"
+file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_lower_1.nbt"
+hash = "bc8ed79f97342a417f34824229c866a9e4e4455c935d98bfe3e7d6ab37944ea1"
 
 [[files]]
-file = "kubejs/data/badlands/structures/ruins/industry_ruin_1_upper.nbt"
-hash = "dae8138dae2a75a9f0474b1133a20f7d35f4b7f5f7774c58ace241f7433661ef"
+file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_lower_2.nbt"
+hash = "cd1949ae6384d29ea9a4a40539bb6e82992d71247bbdc660a5ce71b6586c5ea5"
+
+[[files]]
+file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_upper_1.nbt"
+hash = "a38fe64fbfebc4ad1b55669ee8f280d5d2ba4d1124f5a11aa2c3a2f93ae2e2e2"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_1.nbt"
-hash = "816458ff9653870d12e45a41877e66237f0f71cbe464d7e99463d5aa5659de09"
+hash = "545cc2f2fd21a983ede7e9630fcf183f243ad9fc50a09e8f524eb4850faa28f6"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_2.nbt"
-hash = "511a602222db673fee6490c0847281d62e66d85b701d0a23bb52f8a73958f4f1"
+hash = "441320ae54f6ae5555b4c5a366540e6fa70bedd5bb76608d210f210d5b104510"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_3.nbt"
-hash = "f50c986230493d0e2841ab3edd0c0297b6da789ffb61b0cb464cecd1b6004ed8"
+hash = "80b6f82814b9f9cbcf1de7d513b053a9d51ee6a0525c184fce0b4736a547621c"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_base.nbt"
@@ -1129,28 +1137,16 @@ file = "kubejs/data/badlands/worldgen/placed_feature/trees_pine.json"
 hash = "1cb17d3d3b33aa2184026d00521bfc5f4080de43a9e4cc0c2455613519a33377"
 
 [[files]]
-file = "kubejs/data/badlands/worldgen/structure/industry_ruin_1.json"
-hash = "2fe051192efb124a058d7ee50146d792c06fbca7b1284ba53e59b6062fe62ee9"
-
-[[files]]
 file = "kubejs/data/badlands/worldgen/structure/urban_ruins.json"
-hash = "91a7d097e8de655c5f0c0e52338d0b33894d89af803eed75506dda8ab95a58c5"
-
-[[files]]
-file = "kubejs/data/badlands/worldgen/structure_set/industry_ruin_1.json"
-hash = "6a6ad4c0a3db9bb11bea8510b28626fb93d39f9f9e14b2177fe95425babd6ec9"
+hash = "6f07fabc94ab611a1a1cf650fae759d3e1f95a1f8a43ed35f5d2ad49929b7043"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/structure_set/urban_ruins.json"
 hash = "0e5b21f6717f24dc1912c4c8a7bb6319649b0fe1747fd39ac0f18f03be16378e"
 
 [[files]]
-file = "kubejs/data/badlands/worldgen/template_pool/industry_ruin_1_lower_pool.json"
-hash = "200c34d350aea678012b863271f4e5c2d9ba02610fcc82ac62dad8800cd1d4d8"
-
-[[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/industry_ruin_1_upper_pool.json"
-hash = "99435c02366bb26d308c37642d5e25547be9ea9ddb506cf53198a67426de4055"
+hash = "beb986554ef7a61b7140a343682b1d5562060fbaf53a08cf72fdb4b47b7928f6"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/road_pool.json"
@@ -1162,7 +1158,15 @@ hash = "2b35083e735c034d4365fe5a2cf146dc3138b7b19b31741905a22a6780fc2bfa"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/road_tile_pool.json"
-hash = "1012bf4f3657075ab1c40659acb26bc032127a22bd38d6f27975126ae450e250"
+hash = "97699530a8aef6ba1d8b4d166197d53eeecaf73c46c58429e1c9ee42d2d526b9"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/template_pool/ruin_driveway_pool.json"
+hash = "076e440dbf7a8b2956988a27c6b2edea88938553167332a95fc5404ae08b5ec4"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/template_pool/ruin_driveway_stub_pool.json"
+hash = "8ce6d723fb3f60ec93e1109d74f9679039c18c7ea6bfe69f8f1ea01e8103e73b"
 
 [[files]]
 file = "kubejs/data/farmersdelight/structures/village/houses/desert_compost_pile.nbt"
@@ -1479,6 +1483,11 @@ hash = "af939c80935ba51d456613436eec5e064dcbbe0b5603c28b41d0aa693a69be3a"
 metafile = true
 
 [[files]]
+file = "mods/bocchud.pw.toml"
+hash = "8a8d5173c74824a1ae312d7a22e3fc6a5a3312e48f034f2be83ee345e749eda3"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
@@ -1719,6 +1728,11 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/cyanide.pw.toml"
+hash = "ae59ca8f783bbcac6cdb6949fea22910bcace2f4532f5f2a5385a591da1e1acf"
+metafile = true
+
+[[files]]
 file = "mods/daves-building-extended.pw.toml"
 hash = "672217613d12a12c3a891d2909c7d17c1700f3edb3f80589ab6790b78850d273"
 metafile = true
@@ -1894,6 +1908,11 @@ hash = "fc94c66da5ee55811adbff95aebc04daa6de4751be86264658fa26d539149d59"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "6703d5686b7249c586a3a710a909dfd0eba3e2d0c76bc152efb2c43494e5b2e1"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "3e53a00faa4c4b7a182fef776a740bc6df256b81a4ec77b299363e1dda62813a"
 metafile = true
@@ -1966,6 +1985,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "fba7cfc8f29a5244eb9a420d8ced33ecf375941e8c6681a324e0490913006b6f"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "d921175a82cf60e7ebaa7f014f924b77a2f5ace44e81b309dc996c4c55b7455b"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 {
-  "name": "badlands:road_tile_base_pool",
+  "name": "badlands:ruin_driveway_stub_pool",
   "fallback": "minecraft:empty",
   "elements": [
-	  {	
+    {	
       "weight": 1,
       "element": {
-        "projection": "terrain_matching",
-        "location": "badlands:tiles/road_tile_base",
+        "projection": "rigid",
+        "location": "badlands:roads/road_driveway_stub",
         "processors": [],
         "element_type": "minecraft:single_pool_element"
       }

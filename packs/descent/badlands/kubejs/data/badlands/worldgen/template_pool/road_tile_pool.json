@@ -13,7 +13,7 @@
       }
     },
     {	
-      "weight": 15,
+      "weight": 6,
       "element": {
         "projection": "rigid",
         "location": "badlands:tiles/road_tile_2",
@@ -22,7 +22,7 @@
       }
     },
     {	
-      "weight": 20,
+      "weight": 25,
       "element": {
         "projection": "rigid",
         "location": "badlands:tiles/road_tile_1",

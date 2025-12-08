@@ -12,8 +12,8 @@
         "range_type": "heightmap_relative",
         "heightmap": "OCEAN_FLOOR",
         "permitted_range": [
-          78,
-          122
+          -25,
+          25
         ]
       }
     },

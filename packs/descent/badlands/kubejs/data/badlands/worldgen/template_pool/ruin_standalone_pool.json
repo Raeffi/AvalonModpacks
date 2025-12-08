@@ -1,0 +1,36 @@
+{
+  "name": "badlands:ruin_standalone_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+        {	
+      "weight": 10,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:ruins/standalone/factory_1",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 60,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:ruins/standalone/ruin_empty",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

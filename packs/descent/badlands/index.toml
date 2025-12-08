@@ -970,7 +970,7 @@ hash = "f5631e81f0db80af2d57ce6a96be532f0408dbd3b72ab210d4c9266b4b06c033"
 
 [[files]]
 file = "kubejs/data/badlands/lithostitched/worldgen_modifier/restrict_ruins.json"
-hash = "45b11c1c7593152f59333316d7be3d7b2fccb6fb7892ab0d167a11a35cbce546"
+hash = "5c29fcb05b2331bfd434950fa1919c05dc2ce02434e1e122fabdb5313aa19228"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_curve_left.nbt"
@@ -998,7 +998,7 @@ hash = "d3a9bc2813e4de5fe9b9ab4c85bfc7dfa8787ff7cddfc088795bfe38e79e036d"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_driveway_stub.nbt"
-hash = "e7a2365e5a084ea601e0e67e3468fb700aeb66e32f389be347032ae6d3899c39"
+hash = "be4aec2f42c1f87c211efd73746a35031cd44bf58abfae1e88df55dcb6c19323"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_end.nbt"
@@ -1010,7 +1010,7 @@ hash = "aa07f9bf3e4d07dfee8237127d2cf80d6b595e8a13797f8970307eb42df87550"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_both.nbt"
-hash = "f429e5527ce9f5c99c57648de1eb8cccba1b4f4db9e2e97274e3fbf8cdc0bb25"
+hash = "2d8ca5516284aa504634f35eec915932d1e1ecceb9fea60237361f1a3ad03f62"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_left.nbt"
@@ -1070,7 +1070,7 @@ hash = "4bb8750a9c7064cc6c7186ffc24cc411daa965a33360f791364db00603e6edc7"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/driveway_stub_end.nbt"
-hash = "a615995173f0193b65f841af16ac5c14f8466628d7a755beecc73653b3f38728"
+hash = "5bacd3501e6d9498377e806b355ef754dac1bc74ec8cbbbf7d3799cb7bb6cf43"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_lower_1.nbt"
@@ -1085,16 +1085,24 @@ file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_upper_1.n
 hash = "a38fe64fbfebc4ad1b55669ee8f280d5d2ba4d1124f5a11aa2c3a2f93ae2e2e2"
 
 [[files]]
+file = "kubejs/data/badlands/structures/ruins/standalone/factory_1.nbt"
+hash = "8e1b38f9f43fbac638a14ffdf7cf1b58953da7c7c848873a3117a40f30913c23"
+
+[[files]]
+file = "kubejs/data/badlands/structures/ruins/standalone/ruin_empty.nbt"
+hash = "4593edf3ea5514718190da75758dabe67553620ad729fac8e4a185933a368a5f"
+
+[[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_1.nbt"
-hash = "545cc2f2fd21a983ede7e9630fcf183f243ad9fc50a09e8f524eb4850faa28f6"
+hash = "dcd45434449720f94e5b60328d7b243a60562d20ee1935a64dff04c7d420b50c"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_2.nbt"
-hash = "441320ae54f6ae5555b4c5a366540e6fa70bedd5bb76608d210f210d5b104510"
+hash = "42b5296bbc87a7a821a57d9ae0ac267cf2a45304a777b5640d1f924dcc176014"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_3.nbt"
-hash = "80b6f82814b9f9cbcf1de7d513b053a9d51ee6a0525c184fce0b4736a547621c"
+hash = "f81fa7fd7018a8e8808de1d22035f9e8c7f4d2f5facc45cedd4703370821e8d5"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_base.nbt"
@@ -1138,7 +1146,7 @@ hash = "1cb17d3d3b33aa2184026d00521bfc5f4080de43a9e4cc0c2455613519a33377"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/structure/urban_ruins.json"
-hash = "6f07fabc94ab611a1a1cf650fae759d3e1f95a1f8a43ed35f5d2ad49929b7043"
+hash = "864defd4c38a8d0df80f5e70831396041c49e031993b5601d5f4ba13c1e8c6cf"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/structure_set/urban_ruins.json"
@@ -1153,20 +1161,20 @@ file = "kubejs/data/badlands/worldgen/template_pool/road_pool.json"
 hash = "023f70051b51fab66430bba2d32117d21bf79a5a9b4fd97fb235b3300507eabb"
 
 [[files]]
-file = "kubejs/data/badlands/worldgen/template_pool/road_tile_base_pool.json"
-hash = "2b35083e735c034d4365fe5a2cf146dc3138b7b19b31741905a22a6780fc2bfa"
-
-[[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/road_tile_pool.json"
-hash = "97699530a8aef6ba1d8b4d166197d53eeecaf73c46c58429e1c9ee42d2d526b9"
+hash = "23b559db1d259fb60945bac7fa7a5578c79feec8b8aa518e3c36218e24baaf8f"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/ruin_driveway_pool.json"
-hash = "076e440dbf7a8b2956988a27c6b2edea88938553167332a95fc5404ae08b5ec4"
+hash = "b3ad04f3a14c8e26f5a5de90b5d4aa2716ce8a25958fa43129e7f90f969fd418"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/ruin_driveway_stub_pool.json"
-hash = "8ce6d723fb3f60ec93e1109d74f9679039c18c7ea6bfe69f8f1ea01e8103e73b"
+hash = "0f9d1d2d219a03245ea4270854448f31e6c366985c8f47d69f787729177e7a8d"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/template_pool/ruin_standalone_pool.json"
+hash = "aa49ede0e44d4be1eb8dabd3bb149812bcaae2883acedfacd7c86505ae8c29ff"
 
 [[files]]
 file = "kubejs/data/farmersdelight/structures/village/houses/desert_compost_pile.nbt"

@@ -998,7 +998,7 @@ hash = "d3a9bc2813e4de5fe9b9ab4c85bfc7dfa8787ff7cddfc088795bfe38e79e036d"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_driveway_stub.nbt"
-hash = "be4aec2f42c1f87c211efd73746a35031cd44bf58abfae1e88df55dcb6c19323"
+hash = "e470a5fec0eabae27293d3abba3d950a8dedafb914a104a0dde2014ba9d44a10"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_end.nbt"
@@ -1086,7 +1086,7 @@ hash = "a38fe64fbfebc4ad1b55669ee8f280d5d2ba4d1124f5a11aa2c3a2f93ae2e2e2"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/standalone/factory_1.nbt"
-hash = "8e1b38f9f43fbac638a14ffdf7cf1b58953da7c7c848873a3117a40f30913c23"
+hash = "a57a3da27b72fdaea60f236419ac15d010215db374bd2e0b7c1f4e58aa139579"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/standalone/ruin_empty.nbt"
@@ -1094,11 +1094,11 @@ hash = "4593edf3ea5514718190da75758dabe67553620ad729fac8e4a185933a368a5f"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_1.nbt"
-hash = "dcd45434449720f94e5b60328d7b243a60562d20ee1935a64dff04c7d420b50c"
+hash = "8e2f7337555b740a409606d29027541e41b6c30131cecaf770397d87b71bf809"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_2.nbt"
-hash = "42b5296bbc87a7a821a57d9ae0ac267cf2a45304a777b5640d1f924dcc176014"
+hash = "29d68cd1c9f6cdcc6c687651589bf6d2fa6078bc260fc6e21c60b81504bbf113"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_3.nbt"
@@ -1166,11 +1166,11 @@ hash = "23b559db1d259fb60945bac7fa7a5578c79feec8b8aa518e3c36218e24baaf8f"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/ruin_driveway_pool.json"
-hash = "b3ad04f3a14c8e26f5a5de90b5d4aa2716ce8a25958fa43129e7f90f969fd418"
+hash = "8d22fd432a6c404906ed8dd5bb67e9c3576a6b25509ae34a5517316ae8d5df1f"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/ruin_driveway_stub_pool.json"
-hash = "0f9d1d2d219a03245ea4270854448f31e6c366985c8f47d69f787729177e7a8d"
+hash = "57d95d2602d11132f8d52c71b34972c8e60552e6a0b2202f1dc89e6815c0001b"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/ruin_standalone_pool.json"

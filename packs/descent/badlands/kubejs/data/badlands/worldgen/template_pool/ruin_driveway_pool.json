@@ -17,7 +17,7 @@
         "projection": "terrain_matching",
         "location": "badlands:ruins/driveway/driveway_stub_end",
         "processors": [
-            {
+                      {
                 "processor_type": "gravity",
                 "heightmap": "OCEAN_FLOOR_WG",
                 "offset": -1

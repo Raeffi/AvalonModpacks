@@ -17,6 +17,21 @@
         "element_type": "minecraft:single_pool_element"
       }
     },
+        {	
+      "weight": 6,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:ruins/standalone/airport_1",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
     {	
       "weight": 60,
       "element": {

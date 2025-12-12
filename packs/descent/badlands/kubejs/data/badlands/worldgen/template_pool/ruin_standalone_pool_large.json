@@ -1,0 +1,36 @@
+{
+  "name": "badlands:ruin_standalone_pool_large",
+  "fallback": "minecraft:empty",
+  "elements": [
+        {	
+      "weight": 5,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:ruins/standalone/airport_1",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {	
+      "weight": 60,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:ruins/standalone/ruin_empty",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

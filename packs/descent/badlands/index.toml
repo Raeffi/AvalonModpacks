@@ -1074,15 +1074,15 @@ hash = "5bacd3501e6d9498377e806b355ef754dac1bc74ec8cbbbf7d3799cb7bb6cf43"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_lower_1.nbt"
-hash = "bc8ed79f97342a417f34824229c866a9e4e4455c935d98bfe3e7d6ab37944ea1"
+hash = "8d98c1404ef99a5df0101b81035b67d154b34ecc55617a37ff586d9c3ae35388"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_lower_2.nbt"
-hash = "cd1949ae6384d29ea9a4a40539bb6e82992d71247bbdc660a5ce71b6586c5ea5"
+hash = "3c81871d8ee201854342dd888c30a5ca275e7457f4ea33cd6d6a3237559b66c3"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_upper_1.nbt"
-hash = "a38fe64fbfebc4ad1b55669ee8f280d5d2ba4d1124f5a11aa2c3a2f93ae2e2e2"
+hash = "09750d7d25ccc5bb15eecab2963dd1a8ae4dc92e2e5740205a143aea97413113"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/standalone/airport_1.nbt"
@@ -1102,7 +1102,7 @@ hash = "8e2f7337555b740a409606d29027541e41b6c30131cecaf770397d87b71bf809"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_2.nbt"
-hash = "a0ffd97a4b1bc0436183d6728b63f82c35350fd7868edd04475a972527635a36"
+hash = "eddcced3c4eb92f9af7239ff1e2aba5b095700d843fa02ff20061e7198bfaaa5"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_3.nbt"
@@ -1178,11 +1178,19 @@ hash = "57d95d2602d11132f8d52c71b34972c8e60552e6a0b2202f1dc89e6815c0001b"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/ruin_standalone_pool.json"
-hash = "c4950c9e5066acaa645cc7a3ec9520d56ae18ca952f5c7724d2309a336a3bf04"
+hash = "6af471834f59ea57f1af8cd3f5ddd2026f3569880f0242a95bf896a99897c173"
+
+[[files]]
+file = "kubejs/data/badlands/worldgen/template_pool/ruin_standalone_pool_large.json"
+hash = "ea4654bf661b366cf1016f681bb97f00b4d74ba8cced1a13933465434a9ed009"
 
 [[files]]
 file = "kubejs/data/farmersdelight/structures/village/houses/desert_compost_pile.nbt"
 hash = "385cb74c695f94ce0274169b977c43932026b6727f7d9965fdb00f0b88c2a935"
+
+[[files]]
+file = "kubejs/data/justenoughdrugz/structures/meth_lab.nbt"
+hash = "7152798e48e240ad9caa62e790f5a9d21382a31854849da97f6be6a9fd43df33"
 
 [[files]]
 file = "kubejs/data/minecraft/dimension/overworld.json"

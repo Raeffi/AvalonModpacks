@@ -1,13 +1,13 @@
 name = "Immersive Geology"
-filename = "ImmersiveGeology-0.7.5-b1959.jar"
+filename = "ImmersiveGeology-0.8.3-b4497.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vYa8GL4r/versions/mNXSrHjc/ImmersiveGeology-0.7.5-b1959.jar"
+url = "https://cdn.modrinth.com/data/vYa8GL4r/versions/RPAWqJHr/ImmersiveGeology-0.8.3-b4497.jar"
 hash-format = "sha512"
-hash = "e6c0a37268128f695be14f6f9063e2e0aa95ce7408d8d22ef5547cae65a6812139b193a48f59caa1dfbbd2280f6713b2c9a9f3fbaa98780bf9ddb49178a5202f"
+hash = "f53b37249698cc8181e279d459027a0d06172f232119e25472af15778da99c4a71033c43115f0d05637342c6bf955bd1828dd7a62215c2824dd19eb3b2964938"
 
 [update]
 [update.modrinth]
 mod-id = "vYa8GL4r"
-version = "mNXSrHjc"
+version = "RPAWqJHr"

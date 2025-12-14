@@ -998,7 +998,7 @@ hash = "66d9a0efdacae909d2145a0d176508e31c7c4b0a91284d318212160d7930a215"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_driveway_stub.nbt"
-hash = "562bd6ed557d4519defd65e15d7783aa17316b7c4a494a02fcf803186e442263"
+hash = "f90b0ace97001d64303b2cbe9ff2a1039fcad1d5e2a1d5d228aa33e2f0d3f26f"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_end.nbt"
@@ -1078,11 +1078,11 @@ hash = "975afd68273937adf2f90247a67e491d68da55758a954e122dc9003e85dc2c0e"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_lower_1.nbt"
-hash = "8d98c1404ef99a5df0101b81035b67d154b34ecc55617a37ff586d9c3ae35388"
+hash = "64f776c87d2f75eaaf352b6eb7d8f1fca2542719d49a7cd6f80eaf9fae85a1af"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_lower_2.nbt"
-hash = "3c81871d8ee201854342dd888c30a5ca275e7457f4ea33cd6d6a3237559b66c3"
+hash = "6b524f6a242860b0321fb45a5df9212c5b6dd14c30b3874481d6d3421dd4c8c3"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_upper_1.nbt"
@@ -1106,7 +1106,7 @@ hash = "8e2f7337555b740a409606d29027541e41b6c30131cecaf770397d87b71bf809"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_2.nbt"
-hash = "eddcced3c4eb92f9af7239ff1e2aba5b095700d843fa02ff20061e7198bfaaa5"
+hash = "549d1dcd4d5f5e93d13de8be9d389c951bc7ef325f1e2975dbd1bd07b85ff0d5"
 
 [[files]]
 file = "kubejs/data/badlands/structures/tiles/road_tile_3.nbt"

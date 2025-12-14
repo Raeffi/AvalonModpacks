@@ -6,6 +6,12 @@
   "ComputerCraft" : {
     "canTurtlesLeaveScaledShips" : false
   },
+  "Weather2" : {
+    "windMultiplier" : 0.0,
+    "windMaxVel" : 0.0,
+    "stormRange" : 0.0,
+    "stormDampening" : 10.0
+  },
   "enableInteractDistanceChecks" : true,
   "transformTeleports" : true,
   "enableMovementChecks" : false,
@@ -17,5 +23,6 @@
   "aiOnShips" : true,
   "miniShipSize" : 0.5,
   "minScaling" : 0.25,
+  "vsCommandPerms" : 2,
   "$schema" : "schemas/vs_server.schema.json"
 }

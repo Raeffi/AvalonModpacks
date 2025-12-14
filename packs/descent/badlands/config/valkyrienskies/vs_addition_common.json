@@ -7,7 +7,7 @@
     "disableGrabbedShipCollision" : true
   },
   "experimental" : {
-    "fakeAirPocket" : false
+    "fakeAirPocket" : true
   },
   "$schema" : "schemas/vs_addition_common.schema.json"
 }

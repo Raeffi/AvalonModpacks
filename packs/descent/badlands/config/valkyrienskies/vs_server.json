@@ -8,8 +8,8 @@
   },
   "Weather2" : {
     "windMultiplier" : 0.0,
-    "windMaxVel" : 0.0,
-    "stormRange" : 0.0,
+    "windMaxVel" : 0.1,
+    "stormRange" : 0.1,
     "stormDampening" : 10.0
   },
   "enableInteractDistanceChecks" : true,

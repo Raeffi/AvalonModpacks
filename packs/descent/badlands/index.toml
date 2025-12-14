@@ -826,7 +826,7 @@ hash = "1b6f406add86a65dcdd6b48df265363ac6575875005d43fde29748c04b24317e"
 
 [[files]]
 file = "config/valkyrienskies/vs_addition_common.json"
-hash = "7a0c1a75d5e4ab4bb985a32b7b2120fe4e148aea7de1e44702b1329c51a52dc3"
+hash = "c67bd94c0f96a6228f241db31b454da1a1f329e6c8a29586f43ee5acb3cd77b9"
 
 [[files]]
 file = "config/valkyrienskies/vs_addition_server.json"
@@ -850,7 +850,7 @@ hash = "80b0161bbd450eb2e8c64fcd3e643694c052bf43e9e79a985fb639b7a4782466"
 
 [[files]]
 file = "config/valkyrienskies/vs_core_server.json"
-hash = "22a4aa68afc1c5473b3000d66862a7845ec8c7dd081bf5dfe84aaa221c2abe9b"
+hash = "4eacc95dbd5cf61d4a6439c1e959dcdfe77e99459bac9e6763484be37654c738"
 
 [[files]]
 file = "config/valkyrienskies/vs_eureka_client.json"
@@ -862,7 +862,7 @@ hash = "56cc120de707f4f3c6321096455265886eaa478ca915d1aafebe4c9e66cb632f"
 
 [[files]]
 file = "config/valkyrienskies/vs_server.json"
-hash = "286378f2e66afff8007d3b6a137b2b21dbcbe948653bef8c8fce74bb27a0caca"
+hash = "774fa56e51335315208047707548f17192f7451eb9375db16fab664192748a60"
 
 [[files]]
 file = "config/wands.json"
@@ -974,103 +974,107 @@ hash = "5c29fcb05b2331bfd434950fa1919c05dc2ce02434e1e122fabdb5313aa19228"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_curve_left.nbt"
-hash = "6ea8bf54d494be9615e54432ba15c2da3badc66f641fd9fcccd8aba951c9cebb"
+hash = "6fe75d1a0932d2e5c17b640b11c02e46af2d5626eecb3aa466b9afbb09a55f61"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_curve_right.nbt"
-hash = "f39f4fee56763bfbfede84eae772be4c42ee90f6cf45e9bc3df24f789708878e"
+hash = "c811cfb0d04ea589dd742a9d55e0cebdd73b21273f3308ae450eedbb272ddd51"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_diag_curve_left.nbt"
-hash = "e99ee869cb92d50d0049bafc1140a9d5cfd0b7f0776c1e7e659498ba200973d1"
+hash = "80b37cb7bb973b72935aa3bb08c87eb444becb71fa2450613b4f7fcbd8245655"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_diag_curve_right.nbt"
-hash = "7d57e9749b07f0671eed621911fc20c649d470bf7b86ed5fda41b43488c4f293"
+hash = "9ec470bb567dcabf40ce4ddae50ded04dae7e2fee2fd272fa450974c496eea86"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_diagonal_edge.nbt"
-hash = "fc3172e2f012ab0db3511e3e11ec53cbc3eea71aa9180ff7a6874d81c55287cb"
+hash = "70cb945b02fc34c55eda9561bb2c7c2dc4b5d826d6a400c74d02cf350e3a44e1"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_diagonal_middle.nbt"
-hash = "d3a9bc2813e4de5fe9b9ab4c85bfc7dfa8787ff7cddfc088795bfe38e79e036d"
+hash = "66d9a0efdacae909d2145a0d176508e31c7c4b0a91284d318212160d7930a215"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_driveway_stub.nbt"
-hash = "e470a5fec0eabae27293d3abba3d950a8dedafb914a104a0dde2014ba9d44a10"
+hash = "562bd6ed557d4519defd65e15d7783aa17316b7c4a494a02fcf803186e442263"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_end.nbt"
-hash = "56a3d5e0a5b1e2e2c0b69fdcfa6f5b2bafac1c70e2ed445bf514101fc2a1b15e"
+hash = "0bda85f85d9d0e6f53d4b63196fa520cf3d88d69d01e4a2a22bfe1600863bf05"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_intersection_1.nbt"
-hash = "aa07f9bf3e4d07dfee8237127d2cf80d6b595e8a13797f8970307eb42df87550"
+hash = "d168a3cb03167d8bad3aee8279c3105a3ed1cb304aea6281536bac0db2a4134e"
+
+[[files]]
+file = "kubejs/data/badlands/structures/roads/road_intersection_2.nbt"
+hash = "bf96b3090e670f0367d86ca48eb47816f0c69f7f0e1fd2c0dd7c24fd785bae21"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_both.nbt"
-hash = "2d8ca5516284aa504634f35eec915932d1e1ecceb9fea60237361f1a3ad03f62"
+hash = "8ce3e40555e6ea82f4e95a668705aaa0b05c78d63b69c30af1de43cefb93b286"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_left.nbt"
-hash = "a8ea62c2b2721b900aca2878d880d923936495c5b89480fb21b9b3e9dc94ca83"
+hash = "90c44a3fcc0f538d230b470afe7248569dddf7be3ce8b04f811d250d372dca10"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_residential_right.nbt"
-hash = "a32b10c40eeeb1abdfe74e1abf2908f5e244205554fbfa3f9178c21486ddbc91"
+hash = "165989986874c6b10812128e31cdc11585ad6d9167ef3ba8d3c0bb5ce68a07c0"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_roundabout_1.nbt"
-hash = "a8abe37958715df5c1a37059109d5611251ecdcb9486981b3c77242f4e55bd64"
+hash = "4e66a34892f38da7c30ac5075bcb32ca8567ed2b3fede0afd786efed96ecef98"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_s_curve_left.nbt"
-hash = "e4952a878999faa491b3184f6d1aaf6c897cf9ffbcdf8e269a04b5807be44c01"
+hash = "f31499dcbd0a9d2015cc8d085292c7515761c25827acb53f85844f05bc770168"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_s_curve_right.nbt"
-hash = "23e1d95bace8475bed13c3ceaa802cfc7bdaadd340364bc0abf8523ab1f0a4e0"
+hash = "f3de2cfff7d99bce007a3d66892efa6c20ffd09f1a54a70b52262daca47fc740"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_short_end_1.nbt"
-hash = "9480f38d6cb6a71a0bc19b260b62a8304fac07908da2d3ebc9e1be8e907c8421"
+hash = "caa3940cc651fd3c99f48df151e3127ce5d5df0c7e18e2d3c0d54d9068813564"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_short_end_2.nbt"
-hash = "90a3b422b22bc981bf830fa64e87af5f7611abbfa9fd282fd1141797d98b487e"
+hash = "1afed4398edd770f629523b8726ab6fa7ba5a695b7b4245f28baa118446db8b2"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_single_block_connector_1.nbt"
-hash = "744ab0a7343d34bfc2b94b3e51ddfbb661067a073b4f596b0c61270a1206472d"
+hash = "e7c52c13513d5ad3a01a01e0079d4792556f5da8b006967d4969f2a18bcea3ab"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_straight_1.nbt"
-hash = "69c62506517305ff9811a260ea8ee6e17dc5d82810cba2b6ea74e42ed9d6965a"
+hash = "dc19bb1f2190355b70e0d2c7995847cebb7d935390c429a9e1c518fc2b43521a"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_straight_2.nbt"
-hash = "506a73cfaf20b24f397f0c4342dffa9da1c394caf77de91954883e917a4be6b8"
+hash = "e1373f41fd53c889a726674e9027f26ac5b5a5304d9215570125024102cb2e38"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_straight_short_1.nbt"
-hash = "fd9edf0308a71416010428432a633710f5dc1ebeb88b1f93a224d2a61646758b"
+hash = "7f4c2b8c9f6d6011935ce3088020a50bbbc8faf17b48efe934c1df3ba56a4f48"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_straight_single_1.nbt"
-hash = "0c150e9a6d7e56b89140a24009686d3caa306916e4a16736207979b165711bd6"
+hash = "655976e952f70a74c6c68c72477c0d640ac9710fe705e1bab5852bccfc0a5f03"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_t_intersection_1.nbt"
-hash = "9a1e422081fa84cb85a271e378dbf6db8994c638c84751f253f48adb4d13fe6b"
+hash = "e8f6b4a1d85fd4ba8e5235edab8bd85fd717fd172782afa81e953b43bb35afdd"
 
 [[files]]
 file = "kubejs/data/badlands/structures/roads/road_unfinished.nbt"
-hash = "4bb8750a9c7064cc6c7186ffc24cc411daa965a33360f791364db00603e6edc7"
+hash = "6270cf91ab36031004ef6320e1c6259f599691e814049a77b63695c793c0816c"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/driveway_stub_end.nbt"
-hash = "5bacd3501e6d9498377e806b355ef754dac1bc74ec8cbbbf7d3799cb7bb6cf43"
+hash = "975afd68273937adf2f90247a67e491d68da55758a954e122dc9003e85dc2c0e"
 
 [[files]]
 file = "kubejs/data/badlands/structures/ruins/driveway/industry_ruin_1_lower_1.nbt"
@@ -1162,7 +1166,7 @@ hash = "beb986554ef7a61b7140a343682b1d5562060fbaf53a08cf72fdb4b47b7928f6"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/road_pool.json"
-hash = "023f70051b51fab66430bba2d32117d21bf79a5a9b4fd97fb235b3300507eabb"
+hash = "81d85f2d016ecffbf66a2c342edd3db97f8cb5a8772babaebb1c4debabb1e001"
 
 [[files]]
 file = "kubejs/data/badlands/worldgen/template_pool/road_tile_pool.json"

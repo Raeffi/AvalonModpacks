@@ -197,6 +197,21 @@
         "element_type": "minecraft:single_pool_element"
       }
     },
+    	  {	
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "location": "badlands:roads/road_intersection_2",
+        "processors": [
+            {
+                "processor_type": "gravity",
+                "heightmap": "OCEAN_FLOOR_WG",
+                "offset": -1
+            }
+        ],
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
 	  {	
       "weight": 1,
       "element": {
